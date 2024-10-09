@@ -1,0 +1,1393 @@
+Incident Date,Incident Time,FlightID,Aircraft,Altitude,Airport,Laser Color,Injury,City,State
+1-Dec-23,2150,N595JM,SR22,2000,A90,Green,No,Merrimack,New Hampshire
+1-Dec-23,1726,N295JD,SLG2,Unk,TOA,Unk,No,Torrance,California
+1-Dec-23,0620,EAGLE1,R66,1600,ONT,Green,No,Ontario,California
+1-Dec-23,2325,CNS5,PC24,10000,CAE,Green,No,Columbia,South Carolina
+1-Dec-23,0020,N463FA,P28A,3000,RDG,Green,No,Reading,Pennsylvania
+1-Dec-23,0048,N9758C,P28A,4500,A90,Green,No,Merrimack,New Hampshire
+1-Dec-23,0605,LN652AE,HELO,1500,FTW,Green,No,Fort Wayne,Indiana
+1-Dec-23,0202,N865PC,FA50,12000,PHL,Green,No,Philadelphia,Pennsylvania
+1-Dec-23,0154,SKW4760,E75L,35000,ZMP,Green,No,Dodge Center,Minnesota
+1-Dec-23,0314,RPA4649,E75L,4000,SDF,Green,No,Louisville,Kentucky
+1-Dec-23,0348,SKW5589,E75L,11000,FAR,Green,No,Fargo ,North Dakota
+1-Dec-23,0222,SKW4031,E175,1500,PSC,Green,No,Pasco,Washington
+1-Dec-23,0300,SKW4031,E175,1500,PSC,Green,No,Pasco,Washington
+1-Dec-23,0132,LTA6630,DA40,2000,IND,Green,No,Indianapolis,Indiana
+1-Dec-23,0200,MTU94,DA40,4000,BNA,Green,No,Nashville,Tennessee
+1-Dec-23,0020,JIA5103,CRJ9,20000,ZNY,Green,No,Ronkonkoma,New York
+1-Dec-23,0020,JIA5103,CRJ9,20000,ZNY,Green,No,Ronkonkoma,New York
+1-Dec-23,0150,SKW3666,CRJ9,1000,ZJX,Green,No,Hillard,Florida
+1-Dec-23,0057,C2310,CN35,2500,MOB,Green,No,Mobile,Alabama
+1-Dec-23,0519,N175SP,C414,5000,ZJX,Green,No,Hillard,Florida
+1-Dec-23,0110,N177TG,C177,3000,ABE,Green,No,Allentown,Pennsylvania
+1-Dec-23,0115,5227E,C172,3000,VGT,Green,No,Las Vegas,Nevada
+1-Dec-23,0302,N737PM,C172,1800,EMT,Blue,No,El Monte,California
+1-Dec-23,0401,N1181M,C172,2500,NCT,Green,No,Mather,California
+1-Dec-23,0532,N5513L,C172,1200,LGB,Green,No,Long Beach,California
+1-Dec-23,2344,N308SP,C172,2500,ADS,Green,No,Dallas,Texas
+1-Dec-23,0012,N31075,BE36,9000,PWM,White,No,Portland,Maine
+1-Dec-23,0619,N203DH,BE20,12000,A11,Green,No,Anchorage,Alaska
+1-Dec-23,0439,AAL1903,B757,34000,ZTL,Green,No,Hampton,Georgia
+1-Dec-23,0505,UAL2626,B757,11000,PCT,Green,No,Warrenton,Virginia
+1-Dec-23,0025,UAL1069,B753,Unk,C90,Unk,No,Elgin,Illinois
+1-Dec-23,0047,SWA393,B738,12000,ZNY,Green,No,Ronkonkoma,New York
+1-Dec-23,0144,AAL1270,B738,34000,ZJX,Green,No,Hillard,Florida
+1-Dec-23,0154,SWA3024,B737,2000,HOU,Green,No,Houston,Texas
+1-Dec-23,0346,SWA2280,B737,10000,D01,Green,No,Denver,Colorado
+1-Dec-23,0547,UAL217,B737,8000,N90,Green,No,Westbury,New York
+1-Dec-23,0517,SWA1673,B38M,11000,SCT,Green,No,San Diego,California
+1-Dec-23,0345,AAL778,A321,6000,P50,Green,No,Phoenix,Arizona
+1-Dec-23,0543,AAL2446,A321,3000,NCT,Green,No,Mather,California
+1-Dec-23,2327,AAL312,A321,2000,PBI,Green,No,West Palm Beach,Florida
+1-Dec-23,0545,JBU1033,A320,2000,SJU,Green,No,San Juan,Puerto Rico
+1-Dec-23,0556,UPS609,A306,6000,PHL,Green,No,Philadelphia,Pennsylvania
+1-Dec-23,0724,FDX153,A306,5000,IND,Green,No,Indianapolis,Indiana
+1-Dec-23,0312,NKS1456,A20N,7000,NCT,Green,No,Mather,California
+2-Dec-23,0546,N700FP,TBM7,10000,NCT,Green,No,Mather,California
+2-Dec-23,0154,N953MB,SR22,1100,TOA,Green,No,Torrance,California
+2-Dec-23,0005,N98HH,SR22,Unk,MYR,Unk,No,Myrtle Beach,South Carolina
+2-Dec-23,0126,N295JD,SLG2,1500,TOA,Green,No,Torrance,California
+2-Dec-23,0341,NIT254,P28A,1200,AGS,Green,No,Augusta,Georgia
+2-Dec-23,0121,N744HJ,HELO,1000,SAN,Green,No,San Diego,California
+2-Dec-23,0153,RPA5605,E75S,2000,BOS,Green,No,Boston,Massachusetts
+2-Dec-23,0131,SKW4837,E75L,2500,AUS,Green,No,Austin,Texas
+2-Dec-23,0252,SKW4112,E75L,1200,SEA,Green,No,Seattle,Washington
+2-Dec-23,0507,SKW5012,E75L,33000,ZAB,Green,No,Albuquerque,New Mexico
+2-Dec-23,0509,SKW3410,E75L,32000,ZLA,Green,No,Palmsdale,California
+2-Dec-23,0037,RPA3687,E75L,19000,ZOB,Green,No,Oberlin,Ohio
+2-Dec-23,0111,JTZ807,E55P,3000,SNA,Green,No,Santa Ana,California
+2-Dec-23,2235,NTW479,E55P,2000,GRB,Unk,No,Green Bay,Wisconsin
+2-Dec-23,0042,JBU1418,E190,17000,BOS,Green,No,Boston,Massachusetts
+2-Dec-23,0134,ENY4157,E170,10000,LIT,Green,No,Little Rock,Arkansas
+2-Dec-23,0511,RVF503,DH8A,8300,ZAN,Green,No,Anchorage,Alaska
+2-Dec-23,0258,N98ME,DA62,7000,JAX,Green,No,Jacksonville,Florida
+2-Dec-23,0857,N913DA,DA40,6000,P50,Green,No,Phoenix,Arizona
+2-Dec-23,0030,EDV4917,CRJ9,6000,BGR,Blue,No,Bangor,Maine
+2-Dec-23,0127,SKW5048,CRJ2,14000,D01,Green,No,Denver,Colorado
+2-Dec-23,2351,EJA220,CL60,4000,D10,Green,No,Dallas-Fort Worth,Texas
+2-Dec-23,0213,EJA851,C700,3500,LAS,Green,No,Las Vegas,Nevada
+2-Dec-23,2328,N12F,C680,2600,IND,Green and Red,No,Indianapolis,Indiana
+2-Dec-23,0153,PXT920,C250,1600,OAK,Green,No,Oakland,California
+2-Dec-23,0205,WRF7HA,C208,1700,FAI,Green,No,Fairbanks,Alaska
+2-Dec-23,0125,ALCO3,C206,4000,NCT,Green,No,Mather,California
+2-Dec-23,0315,CXK448,C172,500,LGB,Green,No,Long Beach,California
+2-Dec-23,0359,N5043J,C172,500,NCT,Green,No,Mather,California
+2-Dec-23,2113,N303LK,C172,2500,S46,Green,No,Burien,Washington
+2-Dec-23,0050,VANDY56,BE40,2000,LIT,Green,No,Little Rock,Arkansas
+2-Dec-23,0120,N400CN,BE40,5000,P50,Green,No,Phoenix,Arizona
+2-Dec-23,0613,AAL116,B788,Unk,HCF,Unk,No,Honolulu,Hawaii
+2-Dec-23,0949,DAL308,B763,14000,SCT,Green,No,San Diego,California
+2-Dec-23,0150,ASA669,B739,2000,PDX,Green,No,Portland,Oregon
+2-Dec-23,0513,AAL561,B738,4000,P50,Green,No,Phoenix,Arizona
+2-Dec-23,2354,UAL2033,B738,1800,RSW,Green,No,Fort Myers,Florida
+2-Dec-23,2341,DAL1471,B738,1800,RSW,Green,No,Fort Myers,Florida
+2-Dec-23,0545,ASA836,B738,Unk,HCF,Unk,No,Honolulu,Hawaii
+2-Dec-23,0058,SWA1256,B737,1500,BWI,Green,No,Baltimore,Maryland
+2-Dec-23,0217,WJA1172,B737,5000,RSW,Green,No,Fort Myers,Florida
+2-Dec-23,0608,SWA3721,B737,8000,P50,Green,No,Phoenix,Arizona
+2-Dec-23,0211,AMF1651,B190,3000,ZMP,Green,No,Dodge Center,Minnesota
+2-Dec-23,0304,LIL141,AT76,15000,ZMA,Green,No,Melbourne,Florida
+2-Dec-23,0320,AAL2405,A321,7000,D10,Green,No,Dallas-Fort Worth,Texas
+2-Dec-23,2312,FFT689,A20N,11000,PCT,Blue,No,Warrenton,Virginia
+3-Dec-23,0303,N227JT,SW3,15000,ZAB,Green,No,Albuquerque,New Mexico
+3-Dec-23,0505,N469JG,S22T,13000,NCT,Green,No,Mather,California
+3-Dec-23,0059,SCU24,PS28,6000,ZFW,Green,No,Fort Worth,Texas
+3-Dec-23,2343,N21489,PA28,1200,DWH,Green,No,Houston,Texas
+3-Dec-23,2357,SCU24,P28A,2400,RVS,Green,No,Tulsa,Oklahoma
+3-Dec-23,0106,N418TY,HELO,6900,PRC,Green,No,Prescott,Arizona
+3-Dec-23,0120,NVT7,HELO,3500,SDL,Green,No,Scottsdale,Arizona
+3-Dec-23,2300,RPA4719,E75L,15000,IND,Blue,No,Indianapolis,Indiana
+3-Dec-23,0125,JIA5053,CRJ9,2200,ABE,Green,No,Allentown,Pennsylvania
+3-Dec-23,2340,JIA5392,CRJ9,10000,CLT,Multi-colored,No,Charlotte,North Carolina
+3-Dec-23,0044,GJS4556,CRJ7,7000,ZBW,Green,No,Nashua,New Hampshire
+3-Dec-23,0328,SKW4872,CRJ7,21000,ZAB,Green,No,Albuquerque,New Mexico
+3-Dec-23,0535,SLH819,C560,25000,ZMP,Green,No,Dodge Center,Minnesota
+3-Dec-23,0001,N404RP,C550,1500,FTW,Green,No,Fort Wayne,Indiana
+3-Dec-23,0317,N325BN,C25B,1500,RSW,Green,No,Fort Myers,Florida
+3-Dec-23,0130,N6125D,C172,2500,S46,Green,No,Burien,Washington
+3-Dec-23,0152,ERU17,C172,3000,DVT,Green,No,Phoenix,Arizona
+3-Dec-23,0221,N660JW,C172,4500,DVT,Green,No,Phoenix,Arizona
+3-Dec-23,0443,N75733,C172,9000,SCT,Green,No,San Diego,California
+3-Dec-23,0933,ATN3357,B763,7000,P50,Green,No,Phoenix,Arizona
+3-Dec-23,2340,ATN3460,B763,Unk,CLT,Unk,No,Charlotte,North Carolina
+3-Dec-23,2345,SWA3529,B738,4000,TUL,Green,No,Tulsa,Oklahoma
+3-Dec-23,0200,SWA1841,B738,Unk,P50,Unk,No,Phoenix,Arizona
+3-Dec-23,0001,SWA1371,B737,4000,D10,Green,No,Dallas-Fort Worth,Texas
+3-Dec-23,0135,SWA1333,B737,14000,U90,Green,No,Tucson,Arizona
+3-Dec-23,0250,SWA3704,B737,12000,JCF,Green,No,Edwards AFB,California
+3-Dec-23,0345,SWA2035,B737,8000,NCT,Green,No,Mather,California
+3-Dec-23,1114,ALCO1,B505,Unk,OAK,Unk,No,Oakland,California
+3-Dec-23,0330,TRPR8,B407,2200,MSP,Green,No,Minneapolis,Minnesota
+3-Dec-23,2348,N111TM,B350,12000,ZME,Green,No,Memphis,Tennessee
+3-Dec-23,2327,C6527,AS65,3000,CLE,Green,No,Cleveland,Ohio
+3-Dec-23,0631,DAL2921,A321,1600,SAN,Green,No,San Diego,California
+3-Dec-23,0047,AAL916,A319,8000,MIA,Green,No,Miami,Florida
+4-Dec-23,0215,JAVAN75,TEX2,10000,P50,Green,No,Phoenix,Arizona
+4-Dec-23,0040,RANGER734,TEX2,1600,CRP,Green,No,Corpus Christi,Texas
+4-Dec-23,0218,OST47,SR20,4500,ZFW,Green,No,Fort Worth,Texas
+4-Dec-23,0305,CXK1076,PA44,6000,ZFW,Blue,No,Fort Worth,Texas
+4-Dec-23,2304,N32303,PA32,4000,TRI,Green,No,Bristol/Johnson/Kingsport,Tennessee
+4-Dec-23,0230,ASI577,PA28,2500,DVT,Green,No,Phoenix,Arizona
+4-Dec-23,0151,N75332,P28A,2000,FSM,Multiple green,No,Fort Smith,Arkansas
+4-Dec-23,0124,FDX51,MD11,4000,ZSU,Green,No,San Juan,Puerto Rico
+4-Dec-23,0325,N201XQ,M20P,5500,SBA,Green,No,Santa Barbara,California
+4-Dec-23,0224,N599TA,LJ45,3000,BTR,Green,No,Baton Rouge,Louisiana
+4-Dec-23,0322,LF32,HELO,2300,GEG,Green,No,Spokane ,Washington
+4-Dec-23,2357,N21J,F2TH,3000,ZME,Green,No,Memphis,Tennessee
+4-Dec-23,0855,N911RZ,EC35,4000,ZHU,Green,No,Houston,Texas
+4-Dec-23,0047,QXE2415,E75L,13000,ELP,Unk,No,El Paso,Texas
+4-Dec-23,0239,RPA4765,E75L,9000,PCT,Blue,No,Warrenton,Virginia
+4-Dec-23,0251,ASH6169,E175,3000,PCT,Blue,No,Warrenton,Virginia
+4-Dec-23,0418,ENY3945,E170,2000,MEM,Green,No,Memphis,Tennessee
+4-Dec-23,0037,JSX552,E145,17000,ZFW,Green,No,Fort Worth,Texas
+4-Dec-23,0102,UCA4269,E145,8000,CRP,Green,No,Corpus Christi,Texas
+4-Dec-23,0325,UCA4907,E145,1700,BRO,Green,No,Brownsville,Texas
+4-Dec-23,0355,PDT5866,E145,10000,CLT,Green,No,Charlotte,North Carolina
+4-Dec-23,2235,PDT2428,DH8D,4000,PCT,Green,No,Warrenton,Virginia
+4-Dec-23,0254,LTA661,DA40,3500,MYR,Green,No,Myrtle Beach,South Carolina
+4-Dec-23,0005,EDV5081,CRJ9,11000,PCT,Blue,No,Warrenton,Virginia
+4-Dec-23,0058,EDV5512,CRJ9,7000,BHM,Green,No,Birmingham,Alabama
+4-Dec-23,0010,SKW4918,CRJ7,6000,LCH,Green,No,Lake Charles,Louisiana
+4-Dec-23,0225,EJA657,C56X,10000,GSO,Green,No,Greensboro,North Carolina
+4-Dec-23,0039,SKT769,C172,1500,DAL,Green,No,Dallas ,Texas
+4-Dec-23,0113,N21769,C172,1400,DAL,Blue,No,Dallas ,Texas
+4-Dec-23,0135,N441QF,C172,2200,NCT,Green,No,Mather,California
+4-Dec-23,0208,N21769,C172,1500,DAL,Green,No,Dallas ,Texas
+4-Dec-23,0258,N85FF,C172,5500,L30,Green,No,Las Vegas,Nevada
+4-Dec-23,0255,SCA20,C172,2500,CHD,Green,No,Chandler,Arizona
+4-Dec-23,0315,N52070,C172,3800,SBA,Green,No,Santa Barbara,California
+4-Dec-23,0350,N441QF,C172,6000,NCT,Green,No,Mather,California
+4-Dec-23,0133,N24547,C172,7500,AUS,Green,No,Austin,Texas
+4-Dec-23,0029,N757QH,C152,3400,DTO,Blue,No,Denton,Texas
+4-Dec-23,0739,LN1079D,BE9L,8000,LAS,Green,No,Las Vegas,Nevada
+4-Dec-23,0111,DLX170,BE20,6000,NCT,Green,No,Mather,California
+4-Dec-23,0519,DAL2610,BCS1,10000,S46,Green,No,Burien,Washington
+4-Dec-23,0238,UPS916,B744,13500,ZLA,Green,No,Palmsdale,California
+4-Dec-23,0501,DAL2976,B739,5200,ZTL,Green,No,Hampton,Georgia
+4-Dec-23,0635,UAL2239,B739,12000,NCT,Green,No,Mather,California
+4-Dec-23,2350,DAL1491,B739,4500,TPA,Green,No,Tampa,Florida
+4-Dec-23,0001,SWA947,B738,21000,ZID,Green,No,Indianapolis,Indiana
+4-Dec-23,0201,SWA278,B738,15000,D01,Green,No,Denver,Colorado
+4-Dec-23,0322,UAL1224,B738,11000,ZHU,Green,No,Houston,Texas
+4-Dec-23,0537,SWA2300,B738,8000,NCT,Green,No,Mather,California
+4-Dec-23,0620,SWA2259,B738,1500,SAN,Green,No,San Diego,California
+4-Dec-23,0650,AAL2194,B738,5000,SCT,Green,No,San Diego,California
+4-Dec-23,0010,SWA2268,B737,20000,ZHU,Green,No,Houston,Texas
+4-Dec-23,0213,SWA2888,B737,3800,SAN,Green,No,San Diego,California
+4-Dec-23,0210,UAL1152,B737,13000,GSP,Green,No,Greer,South Carolina
+4-Dec-23,0245,SWA1463,B737,9000,PCT,Blue,No,Warrenton,Virginia
+4-Dec-23,2330,AAL2550,B737,18000,ZTL,Green,No,Hampton,Georgia
+4-Dec-23,0535,LN902ST,B39L,12000,HCF,Green,No,Honolulu,Hawaii
+4-Dec-23,0453,SWA3102,B38M,12500,BNA,Green,No,Nashville,Tennessee
+4-Dec-23,0119,CYC832,B350,24000,ZJX,Green,No,Hillard,Florida
+4-Dec-23,2344,N1479R,AA5,2600,CMH,Green,No,Columbus,Ohio
+4-Dec-23,0204,UAL624,A320,15000,D01,Green,No,Denver,Colorado
+4-Dec-23,0512,DAL386,A320,6500,HCF,Green,No,Honolulu,Hawaii
+5-Dec-23,2337,CXK109,P28T,1400,UES,Green,No,Waukesha,Wisconsin
+5-Dec-23,0243,N32544,P28R,3500,ZAB,Green,No,Albuquerque,New Mexico
+5-Dec-23,0456,CXK259,P28A,2000,I90,Multiple Blue,No,Houston,Texas
+5-Dec-23,0642,ASI625,P28A,6000,ZHU,Green,No,Houston,Texas
+5-Dec-23,0230,JIA5437,CRJ7,19000,ZME,Green,No,Memphis,Tennessee
+5-Dec-23,0220,CHILI73,C5M,3000,SAT,Green,No,San Antonio,Texas
+5-Dec-23,0126,N113US,C560,5000,ZAB,Green,No,Albuquerque,New Mexico
+5-Dec-23,0133,N51594,C172,1000,LGB,Green,No,Long Beach,California
+5-Dec-23,0156,ERU937,C172,3500,DAB,Green,No,Daytona Beach,Florida
+5-Dec-23,0215,N225TF,C172,1200,SNA,Green,No,Santa Ana,California
+5-Dec-23,0235,ERU886,C172,2700,DAB,Blue,No,Daytona Beach,Florida
+5-Dec-23,0218,N5176R,C172,2500,CNO,Green,No,Chino,California
+5-Dec-23,0115,N18LW,C172,Unk,SAT,Unk,No,San Antonio,Texas
+5-Dec-23,0135,N220HG,C152,2000,D10,Green,No,Dallas-Fort Worth,Texas
+5-Dec-23,0340,BISON01,C130,4000,GTF,Green,No,Great Falls,Montana
+5-Dec-23,0155,CFYEV,BE9T,2000,MSY,Green,No,New Orleans,Louisiana
+5-Dec-23,0255,AIP5041,BE99,4000,BIL,Green,No,Billings,Montana
+5-Dec-23,0302,ATN3598,B763,24000,ZAB,Green,No,Albuquerque,New Mexico
+5-Dec-23,0255,EOSIN88,B762,11000,ZKC,Green,No,Olathe,Kansas
+5-Dec-23,0120,ASA710,B739,9000,D01,Green,No,Denver,Colorado
+5-Dec-23,0432,ASA1086,B739,1800,ONT,Green,No,Ontario,California
+5-Dec-23,0000,SWA1783,B738,2000,D10,Green,No,Dallas-Fort Worth,Texas
+5-Dec-23,0010,SWA2268,B737,9000,I90,Green,No,Houston,Texas
+5-Dec-23,0412,HAL510,B712,1000,ITO,Green,No,Hilo,Hawaii
+5-Dec-23,0000,UAL1821,B38M,17000,IAH,Green,No,Houston,Texas
+5-Dec-23,0115,AIP1828,B190,11000,D01,Green,No,Denver,Colorado
+5-Dec-23,0436,THNDR11,B1,19000,ZDV,Green,No,Longmont,Colorado
+5-Dec-23,0011,C6569,AS65,5000,ZID,Green,No,Indianapolis,Indiana
+5-Dec-23,0155,AAL2901,A321,2600,CLT,Green,No,Charlotte,North Carolina
+5-Dec-23,0402,DAL505,A321,3000,LGA,Green,No,New York,New York
+5-Dec-23,0658,DAL464,A21N,4000,HCF,Blue,No,Honolulu,Hawaii
+6-Dec-23,0102,N519CA,SLG2,900,TOA,Green,No,Torrance,California
+6-Dec-23,0440,LBQ611,PC12,Unk,CRP,Unk,No,Corpus Christi,Texas
+6-Dec-23,0233,OUA38,PA44,3000,ZFW,Green,No,Fort Worth,Texas
+6-Dec-23,2305,N9359N,P28R,3500,TRI,Green,No,Bristol/Johnson/Kingsport,Tennessee
+6-Dec-23,0059,N7944N,P28A,2500,I90,Green,No,Houston,Texas
+6-Dec-23,0230,N886EC,P28A,1000,DWH,Green,No,Houston,Texas
+6-Dec-23,0833,N9690K,P28A,5500,SCT,Blue,No,San Diego,California
+6-Dec-23,0543,EDG960,GLF5,2000,YIP,White,No,Detroit,Michigan
+6-Dec-23,0555,REH09,EC35,2200,SAN,Green,No,San Diego,California
+6-Dec-23,0204,SKW3449,E75L,5000,BOI,Green,No,Boise,Idaho
+6-Dec-23,0209,SKW4715,E75L,7000,BOI,Green,No,Boise,Idaho
+6-Dec-23,0150,N295RA,DA42,6000,PRC,Green,No,Prescott,Arizona
+6-Dec-23,0412,SKW3114,CRJ7,9000,ZHU,Green,No,Houston,Texas
+6-Dec-23,0336,EDV4903,CRJ2,17000,ZTL,Green,No,Hampton,Georgia
+6-Dec-23,0146,IRO7591,C208,3000,AZO,Green,No,Kalamazoo,Michigan
+6-Dec-23,0643,BVN7518,C208,8000,ZME,Green,No,Memphis,Tennessee
+6-Dec-23,0145,IRO7604,C208,Unk,GRR,Unk,No,Grand Rapids,Michigan
+6-Dec-23,0016,N494JB,C172,1800,DWH,Green,No,Houston,Texas
+6-Dec-23,0131,N212BS,C172,3500,ABI,Green,No,Abilene,Texas
+6-Dec-23,0137,N858WK,C172,4500,MGM,Green,No,Montgomery,Alabama
+6-Dec-23,0139,N760LA,C172,7000,P50,Green,No,Phoenix,Arizona
+6-Dec-23,0225,ERU27,C172,6800,PRC,Green,No,Prescott,Arizona
+6-Dec-23,0228,ERU70,C172,7100,PRC,Green,No,Prescott,Arizona
+6-Dec-23,0238,ERU944,C172,2000,DAB,Green,No,Daytona Beach,Florida
+6-Dec-23,0255,N37CJ,C172,10000,P50,Green,No,Phoenix,Arizona
+6-Dec-23,2301,N35063,C172,1600,LAF,Green,No,Lafayette,Indiana
+6-Dec-23,2355,N2458M,C172,800,PMP,Green,No,Pompano Beach,Florida
+6-Dec-23,0044,N556SP,C172,Unk,AUS,Unk,No,Austin,Texas
+6-Dec-23,0030,N623PA,C152,5500,ZFW,Green,No,Fort Worth,Texas
+6-Dec-23,0307,N8193F,C150,1800,NCT,Green,No,Mather,California
+6-Dec-23,0300,FDX1345,B763,19000,ZOA,Red And White,No,Fremont,California
+6-Dec-23,0243,UPS1333,B752,22000,ZMA,Green,No,Melbourne,Florida
+6-Dec-23,0448,FDX1676,B752,Unk,IND,Unk,No,Indianapolis,Indiana
+6-Dec-23,0355,ASA517,B739,34000,ZLC,Blue,No,Salt Lake City,Utah
+6-Dec-23,0134,DAL2646,B738,16500,ZLC,Green,No,Salt Lake City,Utah
+6-Dec-23,0143,DAL599,B738,16500,A80,Green,No,Peachtree City,Georgia
+6-Dec-23,0240,SWA2908,B737,5000,I90,Blue,No,Houston,Texas
+6-Dec-23,0259,SWA587,B737,2500,AUS,Green,No,Austin,Texas
+6-Dec-23,0225,SWA761,B737,29000,ZAB,Green,No,Albuquerque,New Mexico
+6-Dec-23,0532,ASA1184,B737,3600,SNA,Green,No,Santa Ana,California
+6-Dec-23,2300,SWA759,B737,8000,PCT,Green,No,Warrenton,Virginia
+6-Dec-23,2340,SWA759,B737,8000,PCT,Green,No,Warrenton,Virginia
+6-Dec-23,0307,PD2,AS50,Unk,ABQ,Unk,No,Albuquerque,New Mexico
+6-Dec-23,0141,DAL1354,A321,7000,P50,Green,No,Phoenix,Arizona
+6-Dec-23,0057,NKS2047,A319,2500,A90,Green,No,Merrimack,New Hampshire
+7-Dec-23,0109,RNGR726,TEX2,2000,I90,Green,No,Houston,Texas
+7-Dec-23,0157,BB213,TEX2,3500,P31,Green,No,Pensacola,Florida
+7-Dec-23,0148,TEK681,PC12,4000,CMH,Green,No,Columbus,Ohio
+7-Dec-23,0100,N878WS,P28A,6000,ZME,Green,No,Memphis,Tennessee
+7-Dec-23,0147,ASI532,P28A,2400,DVT,Green,No,Phoenix,Arizona
+7-Dec-23,0946,SO2,HELO,1100,TPA,Green,No,Tampa,Florida
+7-Dec-23,2308,FOX8,HELO,2000,CLE,Green,No,Cleveland,Ohio
+7-Dec-23,0126,RPA3519,E75L,14000,IND,Green,No,Indianapolis,Indiana
+7-Dec-23,0130,SKW3688,E75L,6000,BOI,Green,No,Boise,Idaho
+7-Dec-23,0340,SKW3751,E75L,23000,ZMP,Green,No,Dodge Center,Minnesota
+7-Dec-23,2346,SKW4863,E75L,14000,ZTL,Green,No,Hampton,Georgia
+7-Dec-23,0155,KING61,E2CB,10000,P31,Green,No,Pensacola,Florida
+7-Dec-23,0002,RPA5842,E170,9000,CHS,Green,No,Charleston ,South Carolina
+7-Dec-23,0314,UCA4375,E145,11000,ZME,Green,No,Memphis,Tennessee
+7-Dec-23,0350,UCA4224,E145,700,ZHU,Green,No,Houston,Texas
+7-Dec-23,0000,JIA5390,CRJ9,19000,ZTL,Green,No,Hampton,Georgia
+7-Dec-23,0041,JIA5311,CRJ9,11000,ZJX,Green,No,Hillard,Florida
+7-Dec-23,0410,SKW5591,CRJ7,1800,FAT,Green,No,Fresno,California
+7-Dec-23,0402,N8946,CH7B,6500,ZFW,Green,No,Fort Worth,Texas
+7-Dec-23,0231,N543TC,C208,5000,SBA,Green,No,Santa Barbara,California
+7-Dec-23,0220,N94141,C206,2400,SBA,Green,No,Santa Barbara,California
+7-Dec-23,0054,N413ES,C172,3900,AUS,Green,No,Austin,Texas
+7-Dec-23,0159,N5156J,C172,1600,VNY,Green,No,Van Nuys,California
+7-Dec-23,0153,N1897V,C172,10000,P50,Green,No,Phoenix,Arizona
+7-Dec-23,0143,ERU12,C172,9000,P50,Green,No,Phoenix,Arizona
+7-Dec-23,0336,ERU21,C172,7200,PRC,Green,No,Prescott,Arizona
+7-Dec-23,2340,N974TH,C172,4000,RDG,Green,No,Reading,Pennsylvania
+7-Dec-23,2331,N885GT,C172,2000,PDX,Green,No,Portland,Oregon
+7-Dec-23,2331,885GT,C172,Unk,PDK,Unk,No,Atlanta,Georgia
+7-Dec-23,0615,STALK51,C130,6500,ABQ,Green,No,Albuquerque,New Mexico
+7-Dec-23,0242,LN734CB,BE9L,11000,P50,Green,No,Phoenix,Arizona
+7-Dec-23,0105,WIG1031,BE99,4000,A90,Green,No,Merrimack,New Hampshire
+7-Dec-23,0240,AMF1925,BE99,6000,P80,Green,No,Portland,Oregon
+7-Dec-23,0037,N152BZ,BE36,6000,I90,Green,No,Houston,Texas
+7-Dec-23,1100,ANA102,B789,35000,ZAN,Green,No,Anchorage,Alaska
+7-Dec-23,0200,PACK83,B762,21000,ZOB,Green,No,Oberlin,Ohio
+7-Dec-23,0125,DAL2231,B757,18000,ZHU,Green,No,Houston,Texas
+7-Dec-23,0004,AAL9707,B738,12900,CLT,Green,No,Charlotte,North Carolina
+7-Dec-23,0117,AAL1074,B738,18000,ZBW,Green,No,Nashua,New Hampshire
+7-Dec-23,0149,SWA344,B738,6000,PHL,Green,No,Philadelphia,Pennsylvania
+7-Dec-23,0219,AAL1093,B738,19000,ZFW,Green,No,Fort Worth,Texas
+7-Dec-23,0220,AAL2409,B738,24000,ZAB,Green,No,Albuquerque,New Mexico
+7-Dec-23,0226,SWA2568,B737,6000,P50,Green,No,Phoenix,Arizona
+7-Dec-23,0320,UAL2420,B737,37000,ZFW,Green,No,Fort Worth,Texas
+7-Dec-23,0505,KII437,B734,28000,ZKC,Green,No,Olathe,Kansas
+7-Dec-23,0156,AAL1225,B38M,25000,ZAB,Green,No,Albuquerque,New Mexico
+7-Dec-23,0421,SWA1266,B38M,500,SAN,Green,No,San Diego,California
+7-Dec-23,0106,AAL661,A321,32000,ZID,Green,No,Indianapolis,Indiana
+7-Dec-23,0305,AAL2947,A321,1500,LAX,Green,No,Los Angeles,California
+7-Dec-23,1020,AAL340 ,A321,33000,ZHU,Green,No,Houston,Texas
+7-Dec-23,0133,NKS3904,A320,3000,BNA,Green,No,Nashville,Tennessee
+7-Dec-23,1029,NKS2323,A320,2000,EWR,Green,No,Newark,New Jersey
+7-Dec-23,2134,JBU2060,A320,4000,N90,Green,No,Westbury,New York
+7-Dec-23,0107,AAL1119,A319,6000,PHL,Green,No,Philadelphia,Pennsylvania
+7-Dec-23,0439,NKS741,A319,900,SAN,Green,No,San Diego,California
+7-Dec-23,0418,DAL528,A21N,21000,ZNY,Green,No,Ronkonkoma,New York
+8-Dec-23,2329,CLOVER6,UH60,Unk,MGM,Green,No,Montgomery,Alabama
+8-Dec-23,0019,N602U,TWEN,4000,GGG,Green,No,Longview,Texas
+8-Dec-23,2339,EDV5293,RJ9,2000,AGS,Green,No,Augusta,Georgia
+8-Dec-23,0101,N717NC,PC12,5000,BNA,Blue,No,Nashville,Tennessee
+8-Dec-23,0247,N409BG,PC12,6000,CLT,Green,No,Charlotte,North Carolina
+8-Dec-23,2340,N6734W,PA28,2300,OMA,Green,No,Omaha,Nebraska
+8-Dec-23,0203,SWORD99,P808,1900,PSC,Green,No,Pasco,Washington
+8-Dec-23,0413,SWORD10,P808,15500,ZSE,Green,No,Auburn,Washington
+8-Dec-23,0049,N9626C,P28A,2500,RDU,Green,No,Raleigh/Durham,North Carolina
+8-Dec-23,0322,JOUST07,P28A,2500,POC,Blue,No,La Verne,California
+8-Dec-23,1355,FDX1415,MD11,1500,PDX,Green,No,Portland,Oregon
+8-Dec-23,2250,BKJK1,HH65,1000,DCA,Green,No,Washington,District of Columbia
+8-Dec-23,2235,ECJ72,H25B,Unk,TEB,Unk,No,Teterboro,New Jersey
+8-Dec-23,0230,N57KT,F900,11000,MKE,Green,No,Milwaukee,Wisconsin
+8-Dec-23,0011,N910TF,F2TH,3000,ZME,Green,No,Memphis,Tennessee
+8-Dec-23,0003,STING13,F16X,1300,TOL,Green,No,Toledo,Ohio
+8-Dec-23,2145,RPA4441,E75S,4000,N90,Green And Yellow,No,Westbury,New York
+8-Dec-23,0228,SKW5263,E75L,19000,ZDV,Green,No,Longmont,Colorado
+8-Dec-23,0310,SKW3324,E75L,3000,SAN,Blue,No,San Diego,California
+8-Dec-23,0522,SKW5612,E75L,4000,SCT,Green,No,San Diego,California
+8-Dec-23,2210,RPA3690,E75L,Unk,ALB,Unk,No,Albuquerque,New York
+8-Dec-23,0310,ENY3385,E170,37000,ZAB,Green,No,Albuquerque,New Mexico
+8-Dec-23,0040,PDT5956,E145,1500,CLT,Green,No,Charlotte,North Carolina
+8-Dec-23,2334,UCA4914,E145,17000,ZTL,Green,No,Hampton,Georgia
+8-Dec-23,0108,AMF7120,E120,2500,BQN,Green,No,Aguadilla,Puerto Rico
+8-Dec-23,0240,EDV4933,CRJ9,11000,POE,Green,No,Fort Polk,Louisiana
+8-Dec-23,0006,C2318,CN35,1000,GPT,Green,No,Gulfport,Mississippi
+8-Dec-23,0337,N394B,CL30,3000,PCT,Blue,No,Warrenton,Virginia
+8-Dec-23,0045,N650SG,C650,Unk,SAT,Unk,No,San Antonio,Texas
+8-Dec-23,0158,N54ZP,C404,8000,ABQ,Green,No,Albuquerque,New Mexico
+8-Dec-23,0140,N54ZP,C404,8000,ABQ,Green,No,Albuquerque,New Mexico
+8-Dec-23,0158,BVN7282,C208,2500,SAT,Green,No,San Antonio,Texas
+8-Dec-23,0200,SMOKEY4,C206,2500,OLM,Green,No,Olympia,Washington
+8-Dec-23,0035,N609FJ,C172,1400,ACY,Green,No,Atlantic City,New Jersey
+8-Dec-23,0051,AVL124,C172,7000,ROA,Green,No,Roanoke,Virginia
+8-Dec-23,0056,N2134M,C172,3500,ACT,Green,No,Waco,Texas
+8-Dec-23,0042,N2134M,C172,3500,CNW,Green,No,Waco,Texas
+8-Dec-23,0146,N2476E,C172,900,LAL,Green,No,Lakeland,Florida
+8-Dec-23,0619,N9512F,C172,1500,HCF,Green,No,Honolulu,Hawaii
+8-Dec-23,2340,N184NW,C172,1600,TVC,Green,No,Traverse City,Michigan
+8-Dec-23,0306,N35HD,BE9L,11300,ZDV,Green,No,Longmont,Colorado
+8-Dec-23,0255,DAL1719,BCS3,25000,ZAB,Green,No,Albuquerque,New Mexico
+8-Dec-23,0326,AAL150,B788,6000,C90,Green,No,Elgin,Illinois
+8-Dec-23,0436,AAL150,B788,11000,ZAU,Green,No,Aurora,Illinois
+8-Dec-23,2346,BAW171,B787,32000,ZBW,Green,No,Nashua,New Hampshire
+8-Dec-23,0304,ATN3598,B763,22000,ZAB,Green,No,Albuquerque,New Mexico
+8-Dec-23,0104,FDX391,B757,19500,ZBW,Green,No,Nashua,New Hampshire
+8-Dec-23,0312,UPS1089,B752,3000,SDF,Green,No,Louisville,Kentucky
+8-Dec-23,0455,FDX1288,B752,22000,ZME,Green,No,Memphis,Tennessee
+8-Dec-23,0120,AAL678,B738,4000,MIA,Green,No,Miami,Florida
+8-Dec-23,0430,AAL2597,B738,24000,ZAB,Green,No,Albuquerque,New Mexico
+8-Dec-23,0642,ASA872,B738,3300,KOA,Blue,No,Kailua/Kona,Hawaii
+8-Dec-23,0126,SWA1256,B737,4000,PCT,Green,No,Warrenton,Virginia
+8-Dec-23,0126,SWA1256,B737,4000,PCT,Green,No,Warrenton,Virginia
+8-Dec-23,0222,ASA1116,B737,3500,SCT,Green,No,San Diego,California
+8-Dec-23,0707,SWA2385,B737,1600,OAK,Green,No,Oakland,California
+8-Dec-23,0406,DAL2843,B712,9000,SGF,Green,No,Springfield,Missouri
+8-Dec-23,0344,N908GF,B407,1500,LRD,Green,No,Laredo,Texas
+8-Dec-23,0317,ASA507,B39M,3000,SAN,Blue,No,San Diego,California
+8-Dec-23,0230,SWA181,B38M,1900,MDW,Green,No,Chicago,Illinois
+8-Dec-23,0438,SWA2771,B38M,29000,ZAB,Green,No,Albuquerque,New Mexico
+8-Dec-23,0016,VV7E114,B06,1700,P31,Green,No,Pensacola,Florida
+8-Dec-23,0100,AAL1278,A321,32000,ZAB,Green,No,Albuquerque,New Mexico
+8-Dec-23,0201,AAL1972,A319,6000,PCT,Green,No,Warrenton,Virginia
+8-Dec-23,0201,AAL1972,A319,6000,PCT,Green,No,Warrenton,Virginia
+8-Dec-23,0447,UAL2467,A319,19000,ZAU,Green,No,Aurora,Illinois
+8-Dec-23,0435,FFT1724,A29N,29000,ZAB,Green,No,Albuquerque,New Mexico
+8-Dec-23,0455,FFT1040,A21N,17000,ZDC,Green,No,Leesburg,Virginia
+8-Dec-23,0100,FFT3941,A20N,600,F11,Green,No,Orlando,Florida
+9-Dec-23,0305,VAR455,SR20,1500,GYR,Green,No,Goodyear,Arizona
+9-Dec-23,0001,N732TS,RV7,4500,DAB,Green,No,Daytona Beach,Florida
+9-Dec-23,0100,N4082J,R22,1000,OLM,Green,No,Olympia,Washington
+9-Dec-23,0127,JCY535,PC12,1000,S46,Green,No,Burien,Washington
+9-Dec-23,0358,OUA10,P28R,4500,OKC,Green,No,Oklahoma City,Oklahoma
+9-Dec-23,0137,N6208,P28A,5500,PCT,Green,No,Warrenton,Virginia
+9-Dec-23,0140,SCU12,P28A,1100,RVS,Green,No,Tulsa,Oklahoma
+9-Dec-23,2257,N7396W,P28A,4500,POU,Green and Blue,No,Poughkeepsie,New York
+9-Dec-23,0704,IVAN01,F16,4800,ZLA,Green,No,Palmsdale,California
+9-Dec-23,2330,RPA4333,E75S,1500,IND,Green,No,Indianapolis,Indiana
+9-Dec-23,0202,SKW5240,E75L,4000,SBA,Green,No,Santa Barbara,California
+9-Dec-23,0225,SKW3265,E75L,14000,ZSE,Green,No,Auburn,Washington
+9-Dec-23,0217,SKW3415,E75L,5000,P80,Green,No,Portland,Oregon
+9-Dec-23,0207,SKW4828,E75L,400,P50,Green,No,Phoenix,Arizona
+9-Dec-23,0300,SKW5805,E75L,6000,NCT,Green,No,Mather,California
+9-Dec-23,0330,SKW3192,E75L,35000,ZOA,Green,No,Fremont,California
+9-Dec-23,0408,SKW3421,E75L,28400,ZSE,Green,No,Auburn,Washington
+9-Dec-23,0755,SKW3739,E75L,6500,ZSE,Green,No,Auburn,Washington
+9-Dec-23,0310,EJA423,E55P,17000,NCT,White,No,Mather,California
+9-Dec-23,0000,LTA660,DA40,4500,ILM,Green,No,Wilmington,North Carolina
+9-Dec-23,0532,SKW3085,CRJ7,5000,PSP,Green,No,Palm Springs,California
+9-Dec-23,0019,EJA749,CL30,5300,D10,Green,No,Dallas-Fort Worth,Texas
+9-Dec-23,0001,N816JC,C68A,1000,HOU,Blue,No,Houston,Texas
+9-Dec-23,2310,N408MM,C56X,4000,IND,Green,No,Indianapolis,Indiana
+9-Dec-23,0250,FTH321,C25B,11000,ZTL,Green,No,Hampton,Georgia
+9-Dec-23,0250,FTH321,C25B,13000,ZTL,Green,No,Hampton,Georgia
+9-Dec-23,0235,FTH321,C25B,9000,GSP,Green,No,Greer,South Carolina
+9-Dec-23,0350,PXT838,C25B,10500,NCT,Green,No,Mather,California
+9-Dec-23,0012,N215MC,C208,Unk,FAI,Green,No,Fairbanks,Alaska
+9-Dec-23,0358,LAWW1,C206,3400,ICT,Green,No,Wichita,Kansas
+9-Dec-23,0436,N4P,C182,2000,SBA,Blue,No,Santa Barbara,California
+9-Dec-23,0000,ERU905,C172,2500,DAB,Green,No,Daytona Beach,Florida
+9-Dec-23,0320,N6036Y,C172,3000,NCT,Green,No,Mather,California
+9-Dec-23,0305,N614FA,C172,4000,AVP,Green,No,Wilkes-Barre/Scranton,Pennsylvania
+9-Dec-23,0350,N616F,C172,3500,NCT,Green,No,Mather,California
+9-Dec-23,0312,N617FG,C172,3000,ORF,Green,No,Norfolk,Virginia
+9-Dec-23,0453,CXK151,C172,7000,L30,Green,No,Las Vegas,Nevada
+9-Dec-23,2315,N1178F,C172,3000,ROC,Green,No,Rochester,New York
+9-Dec-23,0200,SWA2108,B738,9000,ELP,Green,No,El Paso,Texas
+9-Dec-23,0300,SWA2666,B738,3000,IND,Green,No,Indianapolis,Indiana
+9-Dec-23,0630,SCX3086,B738,6000,PCT,Green,No,Warrenton,Virginia
+9-Dec-23,0015,SWA2213,B737,11000,D01,Green,No,Denver,Colorado
+9-Dec-23,0122,SWA491,B737,1800,DAL,Green,No,Dallas ,Texas
+9-Dec-23,0105,SWA2121,B737,1900,DAL,Green,No,Dallas ,Texas
+9-Dec-23,0141,SWA1822,B737,1800,DAL,Green,No,Dallas ,Texas
+9-Dec-23,0115,ASA6,B737,35000,ZOB,Green,No,Oberlin,Ohio
+9-Dec-23,2345,SWA1348,B737,6000,IND,Green,No,Indianapolis,Indiana
+9-Dec-23,1754,SWA2169,B737,4600,MSY,Blue,No,New Orleans,Louisiana
+9-Dec-23,0655,ASA9801,B39M,38000,ZAB,Blue,No,Albuquerque,New Mexico
+9-Dec-23,0108,AAL1225,B38M,3000,P80,Green,No,Portland,Oregon
+9-Dec-23,0525,SWA1085,B38M,10000,NCT,Green,No,Mather,California
+9-Dec-23,0231,AIP1521,B190,5000,ICT,Green,No,Wichita,Kansas
+9-Dec-23,0125,AAL506,A321,2100,SEA,Green,No,Seattle,Washington
+9-Dec-23,0308,AAL2405,A321,5000,D10,Green,No,Dallas-Fort Worth,Texas
+9-Dec-23,0238,AAL2223,A320,30000,ZAB,Green,No,Albuquerque,New Mexico
+9-Dec-23,2345,AAL1634,A320,17000,CLT,Green,No,Charlotte,North Carolina
+9-Dec-23,0636,NKS2522,A20N,5000,NCT,Green,No,Mather,California
+10-Dec-23,0124,SCULLY4,P28A,4000,MCI,Green,No,Kansas City,Missouri
+10-Dec-23,0629,REH09,EC35,1000,SAN,Green,No,San Diego,California
+10-Dec-23,0220,SKW4016,E75L,5000,OKC,Green,No,Oklahoma City,Oklahoma
+10-Dec-23,0302,SKW3358,E75L,3000,ONT,Blue,No,Ontario,California
+10-Dec-23,0330,ASH6168,E75L,8000,OKC,Green,No,Oklahoma City,Oklahoma
+10-Dec-23,0418,SKW3458,E75L,3500,FAT,Blue and Red,No,Fresno,California
+10-Dec-23,0550,SKW4815,E75L,2300,BFL,Green,No,Bakersfield,California
+10-Dec-23,0005,ENY3899,E170,1000,BOS,Green,No,Boston,Massachusetts
+10-Dec-23,1145,UCA4248,E145,27000,ZHU,Green,No,Houston,Texas
+10-Dec-23,2349,SKW4056,CRJ9,6000,D21,Green,No,Detroit,Michigan
+10-Dec-23,0249,SKW4872,CRJ7,21000,ZAB,Green,No,Albuquerque,New Mexico
+10-Dec-23,2330,EDV5197,CRJ7,15000,ZAU,Green,No,Aurora,Illinois
+10-Dec-23,0137,SKW5584,CRJ2,9000,ABE,White,No,Allentown,Pennsylvania
+10-Dec-23,0543,SKW5020,CRJ2,5000,ZMP,Green,No,Dodge Center,Minnesota
+10-Dec-23,0347,PXT680,C680,25000,ZOA,Green,No,Fremont,California
+10-Dec-23,0518,LN33610,C550,1200,MDT,Green,No,Harrisburg,Pennsylvania
+10-Dec-23,0012,LN72BT,C525,11000,ZME,Green,No,Memphis,Tennessee
+10-Dec-23,0026,N508FG,C172,2000,PCT,Green,No,Warrenton,Virginia
+10-Dec-23,0310,N739MH,C172,4500,RNM,Green,No,Ramona,California
+10-Dec-23,0125,DAL502,BCS1,15000,D10,Green,No,Dallas-Fort Worth,Texas
+10-Dec-23,0620,UAL1509,B772,9000,HCF,Green,No,Honolulu,Hawaii
+10-Dec-23,0541,GTI3727,B763,2000,NCT,Green,No,Mather,California
+10-Dec-23,0425,DAL2580,B739,18000,ZLA,Green,No,Palmsdale,California
+10-Dec-23,0439,DAL880,B739,5800,P50,Green,No,Phoenix,Arizona
+10-Dec-23,0406,AAL1608,B738,3000,N90,Green,No,Westbury,New York
+10-Dec-23,0438,SWA4564,B738,13000,NCT,Green,No,Mather,California
+10-Dec-23,0621,UAL1749,B738,10600,HCF,Green,No,Honolulu,Hawaii
+10-Dec-23,0620,SCX3014,B738,6000,CVG,Green,No,Covington,Kentucky
+10-Dec-23,0009,SWA871,B737,6000,I90,Green,No,Houston,Texas
+10-Dec-23,0019,SWA1649,B38M,9500,PCT,Green,No,Warrenton,Virginia
+10-Dec-23,0423,SWA3536,B38M,4000,SCT,Green,No,San Diego,California
+10-Dec-23,0038,LN03,AS55,8000,COS,Green,No,Colorado Springs,Colorado
+10-Dec-23,0000,JBU2152,A321,1000,BOS,Green,No,Boston,Massachusetts
+10-Dec-23,0015,NKS3385,A320,1000,LGA,Green,No,New York,New York
+10-Dec-23,0045,JBU1729,A320,4000,RSW,Green,No,Fort Myers,Florida
+10-Dec-23,0501,AAL450,A320,3000,SAT,Green,No,San Antonio,Texas
+10-Dec-23,0408,AAL2851,A319,3000,N90,Green,No,Westbury,New York
+10-Dec-23,0608,UAL1485,A319,5000,SCT,Green,No,San Diego,California
+10-Dec-23,2340,AAL2400,A319,2900,TUL,Green,No,Tulsa,Oklahoma
+10-Dec-23,2323,DJT102,A21N,1500,EWR,Green,No,Newark,New Jersey
+11-Dec-23,0200,N191DD,SR22,2500,FAT,Green,No,Fresno,California
+11-Dec-23,0150,N5701U,PA28,6200,PUB,Green,No,Pueblo,Colorado
+11-Dec-23,0415,N489AM,HELO,3000,SAT,Green,No,San Antonio,Texas
+11-Dec-23,2255,BJK1,H65,1000,DCA,Green,No,Washington,District of Columbia
+11-Dec-23,2328,N284MW,G280,13000,ZBW,Green,No,Nashua,New Hampshire
+11-Dec-23,0629,SKW3725,E75L,16000,ZLA,Green,No,Palmsdale,California
+11-Dec-23,2353,RPA4741,E75L,6000,HQ DEN,Green,No,Washington,District of Columbia
+11-Dec-23,0223,ENY3895,E170,11000,OKC,Green,No,Oklahoma City,Oklahoma
+11-Dec-23,0323,JZA936,CRJ9,18000,PHL,Green,No,Philadelphia,Pennsylvania
+11-Dec-23,0124,SKW3165,CRJ7,16000,ZAB,Green,No,Albuquerque,New Mexico
+11-Dec-23,0150,SKW4917,CRJ7,4000,D10,Green,No,Dallas-Fort Worth,Texas
+11-Dec-23,0203,SKW348A,CRJ2,10000,ZKC,Green,No,Olathe,Kansas
+11-Dec-23,0200,SKW348A,CRJ2,8000,SGF,Green,No,Springfield,Missouri
+11-Dec-23,0536,SKW5020,CRJ2,10000,ZMP,Green,No,Dodge Center,Minnesota
+11-Dec-23,0011,EJA756,CL35,2500,CHA,Green,No,Chattanooga,Tennessee
+11-Dec-23,0328,EJA912,C68A,12500,SAT,Green,No,San Antonio,Texas
+11-Dec-23,0218,EJA341,C680,4000,P50,Green,No,Phoenix,Arizona
+11-Dec-23,2330,N560JE,C56X,5500,A80,Green,No,Peachtree City,Georgia
+11-Dec-23,0154,N48RG,C172,2700,ZME,Green,Yes,Memphis,Tennessee
+11-Dec-23,2337,JCM332,BE40,2000,BNA,Green,No,Nashville,Tennessee
+11-Dec-23,2358,DAL1409,BCS1,10000,M98,Green,No,Minneapolis,Minnesota
+11-Dec-23,0540,DAL767,B752,4000,NCT,Green,No,Mather,California
+11-Dec-23,2340,GTI8172,B744,6000,C90,Green,No,Elgin,Illinois
+11-Dec-23,0102,DAL822,B739,1500,MSY,Green,No,New Orleans,Louisiana
+11-Dec-23,0547,AAL2208,B738,36000,ZKC,Green,No,Olathe,Kansas
+11-Dec-23,0105,AAL799,B738,5000,CVG,Green,No,Covington,Kentucky
+11-Dec-23,0046,SWA2037,B737,3000,D10,Green,No,Dallas-Fort Worth,Texas
+11-Dec-23,0200,SWA2711,B737,28000,ZME,Green,No,Memphis,Tennessee
+11-Dec-23,0627,SWA364,B737,1200,PSP,Green,No,Palm Springs,California
+11-Dec-23,0038,UAL2241,B737,3000,IAH,Green,No,Houston,Texas
+11-Dec-23,0445,UAL1356,B38M,7000,MIA,Green,No,Miami,Florida
+11-Dec-23,2357,SWA424,B38M,1200,MDW,Green,No,Chicago,Illinois
+11-Dec-23,0133,N164AE,B06,1800,TYS,Green,No,Knoxville,Tennessee
+11-Dec-23,0456,NKS3122,A320,7000,MIA,Green,No,Miami,Florida
+11-Dec-23,0450,UAL2040,A319,4000,MSY,Green,No,New Orleans,Louisiana
+12-Dec-23,0200,VAR502,SR20,3200,PSP,Green,No,Palm Springs,California
+12-Dec-23,0230,N654T,SLNG,1500,VNY,Green,No,Van Nuys,California
+12-Dec-23,0204,N6393C,P28A,1800,VNY,Green,No,Van Nuys,California
+12-Dec-23,0240,N15438,P28A,1500,VNY,Green,No,Van Nuys,California
+12-Dec-23,0204,N4593X,P28A,Unk,VNY,Unk,No,Van Nuys,California
+12-Dec-23,0354,REACH43,HELO,5000,VCV,Green,No,Victorville,California
+12-Dec-23,0527,STAR8,EC35,1400,SMF,Green,No,Sacramento,California
+12-Dec-23,0210,ENY3481,E170,15000,ZHU,Green,No,Houston,Texas
+12-Dec-23,0325,UCA4976,E145,5200,LBB,Green,No,Lubbock,Texas
+12-Dec-23,0245,EDV4903,CRJ9,7000,ZME,Green,No,Memphis,Tennessee
+12-Dec-23,0247,EDV5462,CRJ9,3000,AGS,Green,No,Augusta,Georgia
+12-Dec-23,2346,N518ME,C525,Unk,CXY,Unk,No,Harrisburg,Pennsylvania
+12-Dec-23,0010,N316DC,C172,3000,DBQ,Green,No,Dubuque,Iowa
+12-Dec-23,0000,UCM476,C172,3000,ZKC,Green,No,Olathe,Kansas
+12-Dec-23,0418,N10681,C172,4500,ZME,Green,No,Memphis,Tennessee
+12-Dec-23,0440,EPIC599,C172,5000,ZJX,Blue,No,Hillard,Florida
+12-Dec-23,0501,N80914,C172,7000,SBA,Green,No,Santa Barbara,California
+12-Dec-23,0645,N30370,C172,5500,ZTL,Green,No,Hampton,Georgia
+12-Dec-23,0519,N566D,C172,7000,DAB,Green,No,Daytona Beach,Florida
+12-Dec-23,2340,N100PM,C172,4500,SDF,Green,No,Louisville,Kentucky
+12-Dec-23,2354,N74PE,C172,3000,TRI,Green,No,Bristol/Johnson/Kingsport,Tennessee
+12-Dec-23,0335,N25284,C152,4300,TUL,Blue,No,Tulsa,Oklahoma
+12-Dec-23,2342,UBT78G,B789,Unk,MCO,Unk,No,Orlando,Florida
+12-Dec-23,0427,FDX131,B763,36000,ZID,Green,No,Indianapolis,Indiana
+12-Dec-23,0334,UPS663,B752,15000,ZID,Blue,No,Indianapolis,Indiana
+12-Dec-23,1022,UPS1054,B752,35000,ZID,Green,No,Indianapolis,Indiana
+12-Dec-23,0125,GTI8105,B747,15000,ZAU,Green,No,Aurora,Illinois
+12-Dec-23,0340,UAL1335,B739,9000,SCT,Green,No,San Diego,California
+12-Dec-23,2338,DAL2456,B739,11000,CMH,Green,No,Columbus,Ohio
+12-Dec-23,0207,AAL2597,B738,12000,ZFW,Green,No,Fort Worth,Texas
+12-Dec-23,0535,ASA1187,B738,9000,P80,Green,No,Portland,Oregon
+12-Dec-23,2351,DAL2811,B737,2500,GSP,Green,No,Greer,South Carolina
+12-Dec-23,2338,FPY410,A20,5000,PCT,Green,No,Warrenton,Virginia
+13-Dec-23,0132,R20812,UH60,9000,ZAB,Green,No,Albuquerque,New Mexico
+13-Dec-23,0123,BB182,TEX2,2200,GPT,Green,No,Gulfport,Mississippi
+13-Dec-23,0152,BMJ51,SW4,6000,M98,White,No,Minneapolis,Minnesota
+13-Dec-23,0457,N284LM,SR22,6000,SGF,Green,No,Springfield,Missouri
+13-Dec-23,0415,N212FA,SR20,4000,SBA,Blue,No,Santa Barbara,California
+13-Dec-23,0154,N958L,RV6,1900,SBA,Green,No,Santa Barbara,California
+13-Dec-23,0142,N479SH,R44,800,HWD,Green,No,Hayward,California
+13-Dec-23,0240,N812FS,PC12,25000,ZHU,Green,No,Houston,Texas
+13-Dec-23,2325,GPD107,PC12,7000,ZSU,Green,No,San Juan,Puerto Rico
+13-Dec-23,0355,N3043B,PA32,4000,CLT,Green,No,Charlotte,North Carolina
+13-Dec-23,0032,N256FA,P28A,3000,MDT,Green,No,Harrisburg,Pennsylvania
+13-Dec-23,0128,CXK144,P28A,600,HFD,Green,No,Hartford,Connecticut
+13-Dec-23,0241,N187SP,P28A,2500,CHA,Green,No,Chattanooga,Tennessee
+13-Dec-23,0110,PCOP1,HELO,1700,MDW,Green,No,Chicago,Illinois
+13-Dec-23,0103,C6014,H60,1600,TVC,Green,No,Traverse City,Michigan
+13-Dec-23,0236,N84CW,G280,1700,SAN,Green,No,San Diego,California
+13-Dec-23,0234,AJI581,FA20,4000,I90,Green,No,Houston,Texas
+13-Dec-23,0132,LN603MT,EC35,1500,FAY,Green,No,Fayetteville,North Carolina
+13-Dec-23,0213,SKW4112,E75L,6000,S46,Green,No,Burien,Washington
+13-Dec-23,0134,ENY3887,E170,3000,D10,Green,No,Dallas-Fort Worth,Texas
+13-Dec-23,0448,ENY3309,E170,17000,ZHU,Green,No,Houston,Texas
+13-Dec-23,0115,UCA4258,E145,12000,ZME,Green,No,Memphis,Tennessee
+13-Dec-23,0126,MTU98,DA40,4500,TYS,Green,No,Knoxville,Tennessee
+13-Dec-23,0037,EDV5022,CRJ9,1000,LGA,Green,No,New York,New York
+13-Dec-23,0119,JIA5429,CRJ9,1700,PNS,Green,No,Pensacola,Florida
+13-Dec-23,0222,JIA5533,CRJ9,2000,GPT,Green,No,Gulfport,Mississippi
+13-Dec-23,0135,SKW3666,CRJ9,15000,ZJX,Green,No,Hillard,Florida
+13-Dec-23,0117,SKW6939,CRJ7,19000,ZNY,Green,No,Ronkonkoma,New York
+13-Dec-23,0107,FTH989,C25B,2500,C90,Green,No,Elgin,Illinois
+13-Dec-23,0222,MRA639,C208,2200,ICT,Green,No,Wichita,Kansas
+13-Dec-23,2249,MTN7112,C208,600,ZSU,Green,No,San Juan,Puerto Rico
+13-Dec-23,0113,N113BA,C172,8000,ZAB,Green,No,Albuquerque,New Mexico
+13-Dec-23,0120,N846MK,C172,7500,ABQ,Green,No,Albuquerque,New Mexico
+13-Dec-23,0243,N737PM,C172,2500,RAL,Green,No,Riverside,California
+13-Dec-23,0213,N396TA,C172,800,SNS,Green,No,Salinas,California
+13-Dec-23,0218,N737EM,C172,7000,ZAB,Green,No,Albuquerque,New Mexico
+13-Dec-23,0220,N9027H,C172,3200,SNS,Unk,No,Salinas,California
+13-Dec-23,1136,N766SP,C172,6500,BTR,Green,No,Baton Rouge,Louisiana
+13-Dec-23,0245,T07,C130,2000,PIA,Blue,No,Peoria,Illinois
+13-Dec-23,1625,DLX170,BE20,4000,NCT,Green,No,Mather,California
+13-Dec-23,0136,ATN3352,B763,7500,ZID,Green,No,Indianapolis,Indiana
+13-Dec-23,0437,FDX1243,B763,22000,ZME,Green,No,Memphis,Tennessee
+13-Dec-23,0556,FDX1621,B763,Unk,IND,Unk,No,Indianapolis,Indiana
+13-Dec-23,0129,DAL8845,B752,5000,D10,Green,No,Dallas-Fort Worth,Texas
+13-Dec-23,0124,DAL647,B739/L,Unk,ZAB,Unk,No,Albuquerque,New Mexico
+13-Dec-23,0245,ASA9802,B738B,25000,ZOA,Green,No,Fremont,California
+13-Dec-23,0245,ASA1099,B738,22500,ZOA,Green,No,Fremont,California
+13-Dec-23,0140,SWA340,B737,18000,ZAB,Green,No,Albuquerque,New Mexico
+13-Dec-23,0141,DAL547,B737,32000,ZDV,Green,No,Longmont,Colorado
+13-Dec-23,0434,SWA1604,B737,4000,NCT,Green,No,Mather,California
+13-Dec-23,0553,SWA2696,B737,6000,RNO,White,No,Reno,Nevada
+13-Dec-23,0530,SWA1015,B737,12500,NCT,Green,No,Mather,California
+13-Dec-23,0132,DAL647,B737,Unk,ZDV,Unk,No,Longmont,Colorado
+13-Dec-23,0100,UAL2140,B737,Unk,ZDC,Unk,No,Leesburg,Virginia
+13-Dec-23,0045,FFT2505,A321,1600,MCO,Green,No,Orlando,Florida
+13-Dec-23,0355,NKS1246,A321,800,FLL,Green,No,Fort Lauderdale,Florida
+13-Dec-23,0156,AAL513,A21N,35000,ZAB,Green,No,Albuquerque,New Mexico
+13-Dec-23,0250,FFT1439,A20N,23300,ZAB,Green,No,Albuquerque,New Mexico
+14-Dec-23,0107,N782JR,SR22,2000,LCH,Green,No,Lake Charles,Louisiana
+14-Dec-23,1115,HRD07,SR20,4000,CRW,Green,No,Charleston,West Virginia
+14-Dec-23,0435,KENAI12,PC12,5500,HOM,Green,No,Homer,Alaska
+14-Dec-23,2257,GPD107,PC12,2000,ZSU,Green,No,San Juan,Puerto Rico
+14-Dec-23,0115,N181HE,P28A,1800,FWA,Green,No,Fort Wayne,Indiana
+14-Dec-23,0109,SCU23,P28A,1700,RVS,Green,No,Tulsa,Oklahoma
+14-Dec-23,2305,N539LA,P28A,3500,PHL,Green,No,Philadelphia,Pennsylvania
+14-Dec-23,0325,UAL2471,N737,36000,ZJX,Green,No,Hillard,Florida
+14-Dec-23,0132,N2211W,M20P,7000,A80,Green,No,Peachtree City,Georgia
+14-Dec-23,0115,SODA91,K35L,22000,ZTL,Green,No,Hampton,Georgia
+14-Dec-23,0302,RLJ767,H25B,3000,NCT,Green,No,Mather,California
+14-Dec-23,0112,XAA7268,FA7X,13000,T75,Green,No,St. Charles,Missouri
+14-Dec-23,0214,LMRCY27,EC35,1600,PSP,Blue,No,Palm Springs,California
+14-Dec-23,0242,RPA5802,E75S,Unk,PCT,Unk,No,Warrenton,Virginia
+14-Dec-23,0200,SKW3941,E75L,3000,SCT,Green,No,San Diego,California
+14-Dec-23,0309,SKW5421,E75L,6500,LIT,Green,No,Little Rock,Arkansas
+14-Dec-23,0352,SKW4166,E75L,36000,ZAB,Green,No,Albuquerque,New Mexico
+14-Dec-23,0347,SKW5370,E75L,8000,NCT,Green,No,Mather,California
+14-Dec-23,0215,N47TM,E550,1500,PBI,Green,No,West Palm Beach,Florida
+14-Dec-23,0153,RPA4603,E175,1600,LGA,Green,No,New York,New York
+14-Dec-23,0207,ENY3577,E170,11000,CVG,Green,No,Covington,Kentucky
+14-Dec-23,0444,ENY3381,E170,9000,AZO,Green,No,Kalamazoo,Michigan
+14-Dec-23,1210,ENY3739,E170,15000,D10,Green,No,Dallas-Fort Worth,Texas
+14-Dec-23,0041,UCA4305,E145,18000,ZME,Green,No,Memphis,Tennessee
+14-Dec-23,0250,PDT5687,E145,Unk,PCT,Unk,No,Warrenton,Virginia
+14-Dec-23,2325,PTR2141,DH8D,2000,EWR,Green,No,Newark,New Jersey
+14-Dec-23,0012,JZA362,DH8D,Unk,ZOB,Unk,No,Oberlin,Ohio
+14-Dec-23,0235,MTU87,DA40,6000,ZME,Green,No,Memphis,Tennessee
+14-Dec-23,0059,JIA5030,CRJ9,35000,ZOB,Green,No,Oberlin,Ohio
+14-Dec-23,2354,JIA517,CRJ9,Unk,TYS,Unk,No,Knoxville,Tennessee
+14-Dec-23,0011,JIA5219,CRJ7,3000,CHA,White,No,Chattanooga,Tennessee
+14-Dec-23,0228,JIA5673,CRJ7,4000,CVG,Green,No,Covington,Kentucky
+14-Dec-23,1110,JIA5444,CRJ7,5000,D21,Blue,No,Detroit,Michigan
+14-Dec-23,0014,XSR723,CL35,2500,MKC,Green,No,Kansas City,Missouri
+14-Dec-23,0440,N52LT,C550,36000,ZID,Green,No,Indianapolis,Indiana
+14-Dec-23,0815,MTN8521,C408,10000,ZJX,Green,No,Hillard,Florida
+14-Dec-23,0034,FNX302,C402,3500,GSP,Green,No,Greer,South Carolina
+14-Dec-23,0045,N8842U ,C172,5500,GSP,White,No,Greer,South Carolina
+14-Dec-23,0128,N13830,C172,6500,ZMP,Green,No,Dodge Center,Minnesota
+14-Dec-23,0014,N48500,C172,3000,M98,Green,No,Minneapolis,Minnesota
+14-Dec-23,0200,N4963G,C172,1000,SBP,Green,No,San Luis Obispo,California
+14-Dec-23,0400,N12509,C172,2000,ZMP,Green,No,Dodge Center,Minnesota
+14-Dec-23,2253,N7525N,C172,8500,PIT,Green,No,Pittsburgh,Pennsylvania
+14-Dec-23,0212,N3573D,C170,1600,FUL,Green,No,Fullerton,California
+14-Dec-23,0102,N157LG,BLIMP,1000,MQY,Green,No,Smyrna,Tennessee
+14-Dec-23,0524,N200FM,BE20,1500,MDT,Green,No,Harrisburg,Pennsylvania
+14-Dec-23,0515,N22F,BE20,9000,ZHU,Green,No,Houston,Texas
+14-Dec-23,0149,DAL636,BCS3/L,Unk,ZDC,Unk,No,Leesburg,Virginia
+14-Dec-23,0146,DAL1719,BCS3,29000,ZAB,Green,No,Albuquerque,New Mexico
+14-Dec-23,0210,UPS9600,B767,7000,C90,Green,No,Elgin,Illinois
+14-Dec-23,0351,FDX1607,B763,7000,IND,Green,No,Indianapolis,Indiana
+14-Dec-23,0520,GTI3727,B763,10000,NCT,Green,No,Mather,California
+14-Dec-23,0410,DAL2865,B752,36000,ZID,Green,No,Indianapolis,Indiana
+14-Dec-23,0740,UPS1064,B752,37000,ZDC,Green,No,Leesburg,Virginia
+14-Dec-23,0310,AAL1011,B739,22000,ZTL,Green,No,Hampton,Georgia
+14-Dec-23,0433,DAL2853,B739,24000,ZME,Green,No,Memphis,Tennessee
+14-Dec-23,0037,UAL1885,B738,10000,I90,Green,No,Houston,Texas
+14-Dec-23,0345,SWA3662,B738,4000,C90,Green,No,Elgin,Illinois
+14-Dec-23,0555,SWA1670,B738,28000,ZAB,Green,No,Albuquerque,New Mexico
+14-Dec-23,0137,SWA1817,B737,21000,ZHU,Green,No,Houston,Texas
+14-Dec-23,0157,SWA1861,B737,18000,ZKC,Green,No,Olathe,Kansas
+14-Dec-23,0525,UAL2305,B737,6000,PHX,Green,No,Phoenix,Arizona
+14-Dec-23,2358,CNV4259,B737,8000,NTU,Green,No,Virginia Beach,Virginia
+14-Dec-23,1327,SWA3002,B38M,3000,I90,Green,No,Houston,Texas
+14-Dec-23,0005,FLE1601,B38H,Unk,ZOB,Unk,No,Oberlin,Ohio
+14-Dec-23,0117,NKS2807,A321,4000,A90,Green,No,Merrimack,New Hampshire
+14-Dec-23,0230,DAL838,A321,34000,ZTL,Green,No,Hampton,Georgia
+14-Dec-23,0206,DAL642,A319,10000,S56,Green,No,Salt Lake City,Utah
+14-Dec-23,0405,FDX1631,A306,7000,IND,Green,No,Indianapolis,Indiana
+14-Dec-23,0427,NKS2721,A20N,37000,ZTL,Green,No,Hampton,Georgia
+15-Dec-23,2253,N574RK,SR22,8000,AZO,Green,No,Kalamazoo,Michigan
+15-Dec-23,0424,N6215D,SLG2,2000,SCT,Green,No,San Diego,California
+15-Dec-23,1228,SNC1612,SH36,4000,CMI,Green,No,Champaign/Urbana,Illinois
+15-Dec-23,2358,SNC962,SH36,5000,ZSU,Green,No,San Juan,Puerto Rico
+15-Dec-23,0209,N917JG,PC12,6500,NCT,Green,No,Mather,California
+15-Dec-23,0403,SCU40,PA28,4500,ZKC,Blue,No,Olathe,Kansas
+15-Dec-23,2330,N3814R,PA28,8500,ZTL,Green,No,Hampton,Georgia
+15-Dec-23,0715,LN603AC,LJ60,3200,OKC,Green,No,Oklahoma City,Oklahoma
+15-Dec-23,0150,RESCUE5,HELO,1500,GPT,Green,No,Gulfport,Mississippi
+15-Dec-23,0102,RESCUE5,HELO,1500,GPT,Green,No,Gulfport,Mississippi
+15-Dec-23,0525,DPS100,HELO,1200,AUS,Green,No,Austin,Texas
+15-Dec-23,0139,HAWK69,H60,3500,TUS,Red,No,Tucson,Arizona
+15-Dec-23,0012,N503GF,H25B,1500,FAY,Green,No,Fayetteville,North Carolina
+15-Dec-23,0026,N901MB,H25B,2200,AGC,Green,No,Pittsburgh,Pennsylvania
+15-Dec-23,0956,N440WP,H25B,3000,MIA,Green,No,Miami,Florida
+15-Dec-23,0129,N765WM,GALX,4000,SCT,Green,No,San Diego,California
+15-Dec-23,0205,N363X,FDCT,6500,NCT,Green,No,Mather,California
+15-Dec-23,0021,SDU113,F2TH,23000,ORF,Green,No,Norfolk,Virginia
+15-Dec-23,0410,JSTAT4,EC45,2000,ACY,Green,No,Atlantic City,New Jersey
+15-Dec-23,0518,N229AE,EC35,2000,LEX,Green,No,Lexington,Kentucky
+15-Dec-23,0428,RPA4582,E75S,32000,ZID,Green,No,Indianapolis,Indiana
+15-Dec-23,0220,ASH6169,E75L,27000,ZOB,Green,No,Oberlin,Ohio
+15-Dec-23,0316,RPA3434,E75L,24000,BUF,Green,No,Buffalo,New York
+15-Dec-23,0352,SKW3489,E75L,8000,P80,Green,No,Portland,Oregon
+15-Dec-23,0538,SKW3447,E75L,17000,ZOA,Green,No,Fremont,California
+15-Dec-23,1513,SKW4724,E75L,11000,NCT,Blue,No,Mather,California
+15-Dec-23,0342,ENY3580,E170,7000,BUF,Blue,No,Buffalo,New York
+15-Dec-23,0416,ENY3656,E170,5000,LIT,Green,No,Little Rock,Arkansas
+15-Dec-23,0144,PDT5944,E145,4000,MDT,Green,No,Harrisburg,Pennsylvania
+15-Dec-23,0750,GIZMO43,DC10,26000,ZSE,Red,No,Auburn,Washington
+15-Dec-23,0146,EDV4849,CRJ9,5000,MCI,Green,No,Kansas City,Missouri
+15-Dec-23,1355,EDV5500,CRJ9,8000,MCI,Green,No,Kansas City,Missouri
+15-Dec-23,0200,N537WC,C750,43000,ZKC,Green,No,Olathe,Kansas
+15-Dec-23,2330,EJA837,C700,4000,MIA,Blue And Green,No,Miami,Florida
+15-Dec-23,0113,N208TR,C208,7500,ROW,Green,No,Roswell,New Mexico
+15-Dec-23,2313,N2557S,C182,9500,ZID,Green,No,Indianapolis,Indiana
+15-Dec-23,0026,N172BK,C172,7000,GSP,Green,No,Greer,South Carolina
+15-Dec-23,0420,N98219,C172,4000,SCT,Green,No,San Diego,California
+15-Dec-23,0422,N916NT,C172,8500,P50,Green,No,Phoenix,Arizona
+15-Dec-23,2314,N62LU,C172,2700,ZID,Green,No,Indianapolis,Indiana
+15-Dec-23,0405,EVICT05,C17,6000,DOV,Green,No,Dover,Delaware
+15-Dec-23,0222,N4755P,C152,1000,SAC,Green,No,Sacramento,California
+15-Dec-23,0212,N22998,C150 ,4500,ACY,Green,No,Atlantic City,New Jersey
+15-Dec-23,0658,N454CC,BE30,21000,ZAB,Green,No,Albuquerque,New Mexico
+15-Dec-23,2309,DAL461,BCS1,12000,PCT,Green,No,Warrenton,Virginia
+15-Dec-23,0122,ATN3460,B763,14000,ZID,Green,No,Indianapolis,Indiana
+15-Dec-23,0713,FDX1604,B763,6400,IND,Green,No,Indianapolis,Indiana
+15-Dec-23,0938,UPS1121,B763,6000,PHL,Green,No,Philadelphia,Pennsylvania
+15-Dec-23,1220,UAL221,B753,13000,ZMA,Green,No,Melbourne,Florida
+15-Dec-23,0203,ASA485,B739,30000,ZKC,Green,No,Olathe,Kansas
+15-Dec-23,0226,DAL2246,B739,7000,SCT,Green,No,San Diego,California
+15-Dec-23,0253,ASA293,B739,13000,NCT,Green,No,Mather,California
+15-Dec-23,0359,DAL2099,B739,33000,ZTL,Green,No,Hampton,Georgia
+15-Dec-23,0528,UAL2647,B739,2500,N90,Green,No,Westbury,New York
+15-Dec-23,0530,DAL2103,B739,8000,T75,Green,No,St. Charles,Missouri
+15-Dec-23,0033,DAL350,B738,1000,MIA,Green,No,Miami,Florida
+15-Dec-23,0155,AAL2880,B738,4000,C90,Green,No,Elgin,Illinois
+15-Dec-23,2330,SWA1514,B738,24000,ZNY,Blue,No,Ronkonkoma,New York
+15-Dec-23,0344,SWA2058,B737,4600,T75,Green,No,St. Charles,Missouri
+15-Dec-23,0535,SWA3683,B737,23000,ZKC,Green,No,Olathe,Kansas
+15-Dec-23,0725,DAL2809,B737,8000,NCT,Green,No,Mather,California
+15-Dec-23,1338,SWA2323,B737,11000,MCI,Green,No,Kansas City,Missouri
+15-Dec-23,2235,SWA3159,B737,10000,PIT,Green,No,Pittsburgh,Pennsylvania
+15-Dec-23,2345,SWA2182,B737,14000,ZAU,Green,No,Aurora,Illinois
+15-Dec-23,0015,DAL2050,B712,13700,ZOB,Green,No,Oberlin,Ohio
+15-Dec-23,0346,DAL2018,B712,14000,ZOB,Green,No,Oberlin,Ohio
+15-Dec-23,2322,DAL2234,B712,5000,D21,Green,No,Detroit,Michigan
+15-Dec-23,0119,ASA609,B39M,1500,SEA,Green,No,Seattle,Washington
+15-Dec-23,2345,MTN7106,AT43,4000,ZSU,Green,No,San Juan,Puerto Rico
+15-Dec-23,0152,AAL1248,A321,5000,D10,Green,No,Dallas-Fort Worth,Texas
+15-Dec-23,0334,NKS716,A321,14000,ZID,Blue,No,Indianapolis,Indiana
+15-Dec-23,0521,DAL1503,A321,14500,S56,Green,No,Salt Lake City,Utah
+15-Dec-23,0847,JBU1216,A321,5000,NCT,Green,No,Mather,California
+15-Dec-23,0157,DAL533,A320,1000,MSP,Green,No,Minneapolis,Minnesota
+15-Dec-23,0148,AAL571,A319,2000,D10,Green,No,Dallas-Fort Worth,Texas
+15-Dec-23,0414,AAL833,A319,16600,ZFW,Green,No,Fort Worth,Texas
+15-Dec-23,2258,AAL499,A21N,3500,PHL,Green,No,Philadelphia,Pennsylvania
+15-Dec-23,0710,FFT4399,A20N,3500,PHX,Green,No,Phoenix,Arizona
+16-Dec-23,0018,ATLAS33,UH60,1600,MDT,Green,No,Harrisburg,Pennsylvania
+16-Dec-23,0057,N2421W,P28A,7000,BNA,Green,No,Nashville,Tennessee
+16-Dec-23,0125,MVK51,P28A,3000,ZMP,Green,No,Dodge Center,Minnesota
+16-Dec-23,0210,NIT278,P28A,2000,ZJX,Green,No,Hillard,Florida
+16-Dec-23,0114,PC1,HELO,1200,MDW,Green,No,Chicago,Illinois
+16-Dec-23,0423,TV4,HELO,1500,POC,Blue,No,La Verne,California
+16-Dec-23,0124,TMB110,HDJT,2000,OAK,Blue,No,Oakland,California
+16-Dec-23,0327,STV3,F900,1400,LRD,Green,No,Laredo,Texas
+16-Dec-23,0421,IFL531,F20,1000,LRD,Green,No,Laredo,Texas
+16-Dec-23,0026,LN228MT,EC35,1500,EVV,Green,No,Evansville,Indiana
+16-Dec-23,0056,SKW5414,E75L,10000,BNA,Green,No,Nashville,Tennessee
+16-Dec-23,0220,SKW3486,E75L,34000,ZOA,Green,No,Fremont,California
+16-Dec-23,0719,SKW3725,E75L,3000,SCT,Green,No,San Diego,California
+16-Dec-23,0547,ENY3327,E170,26000,ZHU,Green,No,Houston,Texas
+16-Dec-23,0647,ENY3704,E170,1200,LRD,Green,No,Laredo,Texas
+16-Dec-23,2255,N243BL,DA40,5500,ILM,Blue,No,Wilmington,North Carolina
+16-Dec-23,0418,JIA5114,CRJ9,23000,ZDC,Blue,No,Leesburg,Virginia
+16-Dec-23,0433,EDV5504,CRJ9,14000,ZAU,Blue,No,Aurora,Illinois
+16-Dec-23,0205,SKW5538,CRJ2,1100,HSV,Green,No,Huntsville,Alabama
+16-Dec-23,0206,SKW5538,CRJ2,12500,ZME,Green,No,Memphis,Tennessee
+16-Dec-23,0048,EJA650,C68A,1400,LRD,Green,No,Laredo,Texas
+16-Dec-23,0040,EJA850,C680,1400,ZHU,Green,No,Houston,Texas
+16-Dec-23,0001,BEZ323,C208,5000,ZSU,Green,No,San Juan,Puerto Rico
+16-Dec-23,0200,CPT7810,C208,13000,ZDV,Green,No,Longmont,Colorado
+16-Dec-23,0017,N778AA,C172,6500,GSP,Green,No,Greer,South Carolina
+16-Dec-23,0106,N1487V,C172,10000,SDM,Green,No,San Diego,California
+16-Dec-23,0218,N96180,C172,1700,C90,Green,No,Elgin,Illinois
+16-Dec-23,0148,N587SP,C172,3000,SCT,Green,No,San Diego,California
+16-Dec-23,0427,N201TH,C172,7500,COS,Green,No,Colorado Springs,Colorado
+16-Dec-23,0056,N127ED,C152,Unk,C90,Unk,No,Elgin,Illinois
+16-Dec-23,0026,AIP1801,BE99,5000,SLC,Green,No,Salt Lake City,Utah
+16-Dec-23,0012,N34549,BE58,4000,ZID,Green,No,Indianapolis,Indiana
+16-Dec-23,0117,QFA95,B789,!000,LAX,Green,No,Los Angeles,California
+16-Dec-23,0213,AAL86,B789,12000,C90,Green,No,Elgin,Illinois
+16-Dec-23,0216,ATN3465,B763,4000,D10,Green,No,Dallas-Fort Worth,Texas
+16-Dec-23,0715,FDX1610,B763,13000,IND,Green,No,Indianapolis,Indiana
+16-Dec-23,0006,DAL2065,B753,12500,ZOB,Green,No,Oberlin,Ohio
+16-Dec-23,0542,DAL8934,B752,15000,ZTL,Green,No,Hampton,Georgia
+16-Dec-23,0725,UAL1325,B73M,7500,P80,Blue,No,Portland,Oregon
+16-Dec-23,0213,DAL2641,B739,4000,S46,Green,No,Burien,Washington
+16-Dec-23,0425,UAL2406,B739,35000,ZAB,Green,No,Albuquerque,New Mexico
+16-Dec-23,0545,DAL2960,B739,11000,ZJX,Blue,No,Hillard,Florida
+16-Dec-23,0721,DAL959,B739,7000,NCT,Green,No,Mather,California
+16-Dec-23,0717,SWQ1814,B738,800,LAX,Green,No,Los Angeles,California
+16-Dec-23,2320,UAL418,B738,2000,PNS,Green,No,Pensacola,Florida
+16-Dec-23,0015,SWA1403,B737,36000,ZTL,Green,No,Hampton,Georgia
+16-Dec-23,0221,SWA962,B737,33000,ZTL,Green,No,Hampton,Georgia
+16-Dec-23,0741,SWA175,B737,3000,SAT,Green,No,San Antonio,Texas
+16-Dec-23,0846,AAL2917,B737,9000,NCT,Green,No,Mather,California
+16-Dec-23,1354,SWA734,B737,28000,ZOA,Green,No,Fremont,California
+16-Dec-23,0021,KBAR08,B350,22000,ZTL,Green,No,Hampton,Georgia
+16-Dec-23,2327,NYON53,B207,500,EWR,Green,No,Newark,New Jersey
+16-Dec-23,0058,SUB1018,B190,3000,CHS,Green,No,Charleston ,South Carolina
+16-Dec-23,0010,NKS3929,A321,1600,LGA,Green,No,New York,New York
+16-Dec-23,0145,DAL714,A321,14000,ZOB,Green,No,Oberlin,Ohio
+16-Dec-23,0543,DAL9768,A321,35000,ZTL,Green,No,Hampton,Georgia
+16-Dec-23,0807,JBU162,A321,10000,ZOA,Green,No,Fremont,California
+16-Dec-23,0810,UAL2185,A320,12000,ZOA,Green,No,Fremont,California
+16-Dec-23,1400,UAL2087,A320,26000,ZOA,Green,No,Fremont,California
+16-Dec-23,0223,UAL511,A319,10000,ZAU,Green,No,Aurora,Illinois
+16-Dec-23,0402,TAP203,A21N,2000,EWR,Green,No,Newark,New Jersey
+16-Dec-23,0644,DAL654,A21N,5000,S46,Green,No,Burien,Washington
+16-Dec-23,0724,DAL547,A21N,7500,P80,Blue,No,Portland,Oregon
+16-Dec-23,0459,NKS473,A20N,23000,ZAB,Green,No,Albuquerque,New Mexico
+17-Dec-23,0430,VAR405,SR20,4000,SCT,Unk,No,San Diego,California
+17-Dec-23,2148,N303LK,S46,3000,S46,Green,No,Burien,Washington
+17-Dec-23,0117,N2865B,S22T,1600,HIO,Green,No,Portland,Oregon
+17-Dec-23,0007,N6031F,P28A,2500,ADS,Green,No,Dallas,Texas
+17-Dec-23,0102,N187SP,P28A,5000,TYS,Green,No,Knoxville,Tennessee
+17-Dec-23,0151,N893CS,EC35,2500,LEX,Green,No,Lexington,Kentucky
+17-Dec-23,0105,SKW4924,E75L,8000,SCT,Green,No,San Diego,California
+17-Dec-23,0630,SKW3363,E75L,35000,ZAB,Green,No,Albuquerque,New Mexico
+17-Dec-23,0024,JBU1120,E190,4500,D21,Green,No,Detroit,Michigan
+17-Dec-23,0043,EDV5203,CRJ9,8000,TYS,Green,No,Knoxville,Tennessee
+17-Dec-23,0102,ASH6178,CRJ9,600,IAH,Green,No,Houston,Texas
+17-Dec-23,0057,N5387G,COUR,3500,D21,Green,No,Detroit,Michigan
+17-Dec-23,0143,N8784T,C172,4000,CAE,Green,No,Columbia,South Carolina
+17-Dec-23,0124,N8107A,C172,7000,PRC,Green,No,Prescott,Arizona
+17-Dec-23,0154,N633ND,C172,2000,S46,Green,No,Burien,Washington
+17-Dec-23,0108,9552H,C172,Unk,MFR,Unk,No,Medford,Oregon
+17-Dec-23,1355,N902TS,BE95,5000,HCF,Blue,No,Honolulu,Hawaii
+17-Dec-23,0030,UAL2111,B739,25500,ZHU,Green,No,Houston,Texas
+17-Dec-23,0115,UAL1413,B739,5000,SCT,Green,No,San Diego,California
+17-Dec-23,0230,UAL1761,B739,16000,NCT,Green,No,Mather,California
+17-Dec-23,0515,ASA454,B739,5000,S46,Green,No,Burien,Washington
+17-Dec-23,0630,ASA644,B739,25000,ZAB,Green,No,Albuquerque,New Mexico
+17-Dec-23,0020,AAL2260,B738,7000,CLT,Green,No,Charlotte,North Carolina
+17-Dec-23,0104,AAL1055,B738,2000,DFW,Green,No,Dallas-Fort Worth,Texas
+17-Dec-23,0825,SCX3026,B738,10500,MCI,Green,No,Kansas City,Missouri
+17-Dec-23,0239,CMP450,B738,Unk,ZSU,Unk,No,San Juan,Puerto Rico
+17-Dec-23,0215,SWA1454,B737,10000,P50,Green,No,Phoenix,Arizona
+17-Dec-23,0423,WJA1536,B737,21000,ZAB,Green,No,Albuquerque,New Mexico
+17-Dec-23,0023,AAL2380,A321,5000,CLT,Green,No,Charlotte,North Carolina
+17-Dec-23,0257,AAL2485,A21N,7000,P50,Green,No,Phoenix,Arizona
+17-Dec-23,0541,FFT1247,A20N,8000,D01,Green,No,Denver,Colorado
+18-Dec-23,0002,N245WT,SR22,2000,MIA,Green,No,Miami,Florida
+18-Dec-23,0312,VAR478,SR20,2000,GYR,Green,No,Goodyear,Arizona
+18-Dec-23,0041,DCM1610,PC12,24000,ZHU,Green,No,Houston,Texas
+18-Dec-23,0119,SCU40,P28A,1700,RVS,Green,No,Tulsa,Oklahoma
+18-Dec-23,0015,N973FX,HELO,1700,TUL,Green,No,Tulsa,Oklahoma
+18-Dec-23,2345,SW02,HELO,6600,D01,Green,No,Denver,Colorado
+18-Dec-23,2355,N523MT,HELO,1500,MEM,Green,No,Memphis,Tennessee
+18-Dec-23,0210,N145SU,EC45,3500,SBP,Green,No,San Luis Obispo,California
+18-Dec-23,0415,N601TA,EC35,4500,LBB,Green,No,Lubbock,Texas
+18-Dec-23,0405,QXE2089,E75L,9000,S46,Green,No,Burien,Washington
+18-Dec-23,0138,N781MM,E550,20600,ZAB,Green,No,Albuquerque,New Mexico
+18-Dec-23,2315,ENY3457,E170,Unk,CLT,Unk,No,Charlotte,North Carolina
+18-Dec-23,0106,UCA4269,E145,2000,BRO,Green,No,Brownsville,Texas
+18-Dec-23,2347,PDT5752,E145,4000,CLT,Green,No,Charlotte,North Carolina
+18-Dec-23,0220,EDV5216,CRJ2,13000,ZME,Green,No,Memphis,Tennessee
+18-Dec-23,0310,LN28TX,C650,1500,JAN,Green,No,Jackson  ,Mississippi
+18-Dec-23,1017,JLG297,C25G,1500,IND,Green,No,Indianapolis,Indiana
+18-Dec-23,0041,N555JA,C25C,8000,D10,Green,No,Dallas-Fort Worth,Texas
+18-Dec-23,1130,JLG304,C25B,3000,IND,Green,No,Indianapolis,Indiana
+18-Dec-23,0140,FDY9414,C208,8000,ZME,Green,No,Memphis,Tennessee
+18-Dec-23,2350,N9944Q,C172,2500,P31,Green,No,Pensacola,Florida
+18-Dec-23,0457,LN911RL,BE9L,4000,ZDV,Green,No,Longmont,Colorado
+18-Dec-23,2336,UPS2062,B767,2500,Y90,Green,No,Fort Wayne,Indiana
+18-Dec-23,2336,UPS2062,B767,2500,Y90,Green,No,Fort Wayne,Indiana
+18-Dec-23,0146,ASA632,B739,26100,ZAB,Green,No,Albuquerque,New Mexico
+18-Dec-23,0517,ASA435,B739,34000,ZDV,Green,No,Longmont,Colorado
+18-Dec-23,0100,AAL1863,B738,8400,D10,Green,No,Dallas-Fort Worth,Texas
+18-Dec-23,0204,AAL2892,B738,2800,AUS,Green,No,Austin,Texas
+18-Dec-23,0307,SWA2593,B738,1600,TPA,Green,No,Tampa,Florida
+18-Dec-23,0454,AAL790,B738,6700,COS,Green,No,Colorado Springs,Colorado
+18-Dec-23,0232,SWA2191,B737,1500,PBI,Green,No,West Palm Beach,Florida
+18-Dec-23,0310,AAL860,B38M,5000,P50,Green,No,Phoenix,Arizona
+18-Dec-23,0358,SWA3128,B38M,7000,P80,Green,No,Portland,Oregon
+18-Dec-23,0405,SWA2663,B38M,3000,MCI,Green,No,Kansas City,Missouri
+18-Dec-23,0122,CYC885,B350,3500,PSP,Green,No,Palm Springs,California
+18-Dec-23,0141,DAL1719,A321,23400,ZAB,Green,No,Albuquerque,New Mexico
+18-Dec-23,0342,AAL1458,A321,2500,OKC,Green,No,Oklahoma City,Oklahoma
+18-Dec-23,0603,NKS1202,A321,16000,D01,Green,No,Denver,Colorado
+18-Dec-23,0257,NKS1183,A320,2000,TPA,Blue,No,Tampa,Florida
+18-Dec-23,0301,DAL325,A21N,4000,P50,Green,No,Phoenix,Arizona
+18-Dec-23,0345,FFT2697,A21N,3000,PHX,Green,No,Phoenix,Arizona
+19-Dec-23,0125,N456AJ,R66,6700,COS,Green,No,Colorado Springs,Colorado
+19-Dec-23,0221,OXF9864,PA44,7500,U90,Green,No,Tucson,Arizona
+19-Dec-23,0348,N2940Q,PA28,9500,R90,Green,No,Bellevue,Nebraska
+19-Dec-23,0012,N2108C,P28A,2600,M98,Blue,No,Minneapolis,Minnesota
+19-Dec-23,0920,N8136Q,P28A,4500,P50,Blue,No,Phoenix,Arizona
+19-Dec-23,0004,N616GA,GLF6,5000,PVU,Green,No,Provo,Utah
+19-Dec-23,0351,N45RT,F2TH,3000,Y90,Green,No,Fort Wayne,Indiana
+19-Dec-23,1214,N215BV,E550,1000,SAT,Green,No,San Antonio,Texas
+19-Dec-23,0120,RPA3510,E175,2000,EWR,Green,No,Newark,New Jersey
+19-Dec-23,0011,JSX285,E145,Unk,ZFW,Unk,No,Fort Worth,Texas
+19-Dec-23,0055,EDV5407,CRJ9,1500,LGA,Green,No,New York,New York
+19-Dec-23,0227,GJS4440,CRJ7,6000,BGM,Red and Blue,No,Binghamton,New York
+19-Dec-23,0338,GJS4440,CRJ7,6000,BGM,Blue and White,No,Binghamton,New York
+19-Dec-23,0349,SKW5542,CRJ2,3600,MKE,Green,No,Milwaukee,Wisconsin
+19-Dec-23,0200,CFS7696,C408,2800,ONT,Green,No,Ontario,California
+19-Dec-23,0050,N319ME,C172,3900,MAF,Green,No,Midland,Texas
+19-Dec-23,0220,N550LA,C172,2200,DVT,Green,No,Phoenix,Arizona
+19-Dec-23,0238,N2659Z,C172,2200,AFW,Green,No,Fort Worth ,Texas
+19-Dec-23,0345,CXK601,C172,2500,SAT,Green,No,San Antonio,Texas
+19-Dec-23,0620,N7157G,C172,4500,M03,Green,No,Memphis,Tennessee
+19-Dec-23,0149,N2131W,BE23,2500,CHD,Green,No,Chandler,Arizona
+19-Dec-23,0659,CAL5345,B77L,18000,NCT,Green,No,Mather,California
+19-Dec-23,0005,CKS2176,B744,5000,MDT,Green,No,Harrisburg,Pennsylvania
+19-Dec-23,0103,ASA346,B739,7000,S46,Green,No,Burien,Washington
+19-Dec-23,0106,ASA297,B739,34000,ZKC,Green,No,Olathe,Kansas
+19-Dec-23,0510,DAL933,B739,12000,NCT,Green,No,Mather,California
+19-Dec-23,0347,ASA1245,B739,Unk,P80,Unk,No,Portland,Oregon
+19-Dec-23,0050,SWA336,B738,10000,AUS,Green,No,Austin,Texas
+19-Dec-23,0058,AAL2906,B738,10000,ZAU,Green,No,Aurora,Illinois
+19-Dec-23,0055,AAL2906,B738,12000,C90,Green,No,Elgin,Illinois
+19-Dec-23,0155,AAL1724,B738,35000,ZME,Green,No,Memphis,Tennessee
+19-Dec-23,0321,AMX664,B738,37000,ZLA,Green,No,Palmsdale,California
+19-Dec-23,0605,DAL2110,B738,5000,SCT,Green,No,San Diego,California
+19-Dec-23,0010,SWA2082,B737,600,ROC,Green,No,Rochester,New York
+19-Dec-23,0016,SWA4301,B737,5000,I90,Unk,No,Houston,Texas
+19-Dec-23,0103,SWA121,B737,7000,DEN,Unk,No,Denver,Colorado
+19-Dec-23,0224,SWA1422,B737,1000,HOU,Green,No,Houston,Texas
+19-Dec-23,0430,SWA3222,B737,8000,BHM,Green,No,Birmingham,Alabama
+19-Dec-23,0340,LSTR2,B407,5000,AMA,Green,No,Amarillo,Texas
+19-Dec-23,0124,SWR18P,A330,1000,EWR,Green,No,Newark,New Jersey
+19-Dec-23,0245,AAL2761,A321,2700,PHX,Green,No,Phoenix,Arizona
+19-Dec-23,0121,UAL791,A320,3000,EWR,Green,No,Newark,New Jersey
+19-Dec-23,2249,JBU435,A320,3500,ZSU,Green,No,San Juan,Puerto Rico
+19-Dec-23,0343,FDX1105,A306,2300,IAH,Green,No,Houston,Texas
+19-Dec-23,0423,FDX1121,A306,4000,SAT,Green,No,San Antonio,Texas
+19-Dec-23,0327,NKS3158,A20N,1000,MIA,Green,No,Miami,Florida
+19-Dec-23,0721,NKS1723,A20N,6000,P80,Green,No,Portland,Oregon
+20-Dec-23,0233,GUARD01,UH60,1600,SSF,Green,No,San Antonio,Texas
+20-Dec-23,0237,N62JR,SR22,11000,ZLA,Green,No,Palmsdale,California
+20-Dec-23,2208,N683TY,R44,1500,HPN,Green,No,White Plains,New York
+20-Dec-23,0019,N272GT,PA44,3500,P31,Green,No,Pensacola,Florida
+20-Dec-23,0330,SKW5535,E75L,Unk,FSD,Green,No,Sioux Falls,South Dakota
+20-Dec-23,0013,JBU1331,E190,3000,N90,Green,No,Westbury,New York
+20-Dec-23,0245,PDT5948,E145,14000,ZTL,Green,No,Hampton,Georgia
+20-Dec-23,0212,AMF939,E120,3000,PHX,Green,No,Phoenix,Arizona
+20-Dec-23,0146,N121NG,DA40,6000,ZME,Green,No,Memphis,Tennessee
+20-Dec-23,0448,JIA5283,CRJ7,3000,MHT,Green,No,Manchester,New Hampshire
+20-Dec-23,0059,SKW4665,CRJ2,12000,D01,Green,No,Denver,Colorado
+20-Dec-23,0134,N920RC,C404,6000,P50,Green,No,Phoenix,Arizona
+20-Dec-23,0109,CFS7775,C208,6000,P50,Green,No,Phoenix,Arizona
+20-Dec-23,0211,FDY496,C208,8000,ZAU,Green,No,Aurora,Illinois
+20-Dec-23,0240,SRVY2,C208,6500,U90,Green,No,Tucson,Arizona
+20-Dec-23,0652,FDY73,C208,2400,HCF,Green,No,Honolulu,Hawaii
+20-Dec-23,0648,FDY73,C208,2500,OGG,Green,No,Kahului,Hawaii
+20-Dec-23,0225,FDY463,C206,3100,T75,Green,No,St. Charles,Missouri
+20-Dec-23,2319,N974TH,C172,Unk,RDG,Unk,No,Reading,Pennsylvania
+20-Dec-23,0017,CAP1264,C172,3500,HUF,Green,No,Terre Haute,Indiana
+20-Dec-23,0023,N7198Q,C172,3000,TPA,Green,No,Tampa,Florida
+20-Dec-23,0401,BAW28F,B77W,28000,ZLA,Green,No,Palmsdale,California
+20-Dec-23,0821,UPS9813,B757,11000,CLE,Green,No,Cleveland,Ohio
+20-Dec-23,0605,FDX1682,B752,4000,IND,Green,No,Indianapolis,Indiana
+20-Dec-23,0800,UPS9813,B752,11000,ZOB,Green,No,Oberlin,Ohio
+20-Dec-23,2347,CLX71A,B747,16000,ZME,Green,No,Memphis,Tennessee
+20-Dec-23,0230,DAL2350,B739,32000,ZTL,Green,No,Hampton,Georgia
+20-Dec-23,0300,UAL2723,B739,33000,ZFW,Green,No,Fort Worth,Texas
+20-Dec-23,0153,ASA367,B739,1000,MCO,Green,No,Orlando,Florida
+20-Dec-23,0403,DAL2074,B739,11000,IND,Blue,No,Indianapolis,Indiana
+20-Dec-23,0356,ASA1245,B739,21000,ZSE,Green,No,Auburn,Washington
+20-Dec-23,0828,ASA394,B739,11000,ZSE,Green,No,Auburn,Washington
+20-Dec-23,0810,SCX3059,B738,4000,M98,Blue,No,Minneapolis,Minnesota
+20-Dec-23,0021,UAL2161,B737,3000,EWR,Green,No,Newark,New Jersey
+20-Dec-23,0128,SWA2955,B737,15000,ZFW,Green,No,Fort Worth,Texas
+20-Dec-23,0402,DAL2074,B737,18000,ZAU,Blue,No,Aurora,Illinois
+20-Dec-23,0713,ACA537,B38M,Unk,OGG,Unk,No,Kahului,Hawaii
+20-Dec-23,0523,TROY123,AS50,Unk,ZHU,Unk,No,Houston,Texas
+20-Dec-23,0508,N660AE,AS50,Unk,SAT,Unk,No,San Antonio,Texas
+20-Dec-23,2329,TPA4085,A332,2000,MIA,Green,No,Miami,Florida
+20-Dec-23,0008,AAL823,A321,4000,CLT,Green,No,Charlotte,North Carolina
+20-Dec-23,0219,DAL1719,A321,23000,ZAB,Green,No,Albuquerque,New Mexico
+20-Dec-23,0234,AAL1207,A321,2000,D10,Green,No,Dallas-Fort Worth,Texas
+20-Dec-23,0256,NKS2458,A321,2000,DFW,Green,No,Dallas-Fort Worth,Texas
+20-Dec-23,0500,DAL2138,A321,Unk,PWM,Unk,No,Portland,Maine
+20-Dec-23,0255,UAL2488,A320,37000,ZFW,Green,No,Fort Worth,Texas
+20-Dec-23,0015,AAL1168,A319,9000,CLT,Green,No,Charlotte,North Carolina
+20-Dec-23,0000,FDX3722,A306,3000,IND,Green,No,Indianapolis,Indiana
+20-Dec-23,0325,UPS4608,A306,10000,C90,Green,No,Elgin,Illinois
+20-Dec-23,0340,FDX1121,A306,4000,SAT,Green,No,San Antonio,Texas
+20-Dec-23,0640,HAL40,A21N,7500,P80,Green,No,Portland,Oregon
+21-Dec-23,0026,N899J,SR22,3000,JAX,Green,No,Jacksonville,Florida
+21-Dec-23,0034,N537AB,SR22,2500,MKC,Green,No,Kansas City,Missouri
+21-Dec-23,0242,N121TX,SF50,8000,ELP,Green,No,El Paso,Texas
+21-Dec-23,0305,WF78,PA44,9500,S56,Green,No,Salt Lake City,Utah
+21-Dec-23,0028,N703CA,P28A,5000,CHA,Green,No,Chattanooga,Tennessee
+21-Dec-23,0335,N339BG,P28A,5000,CMH,Green,No,Columbus,Ohio
+21-Dec-23,0338,MT05,HELO,2700,LAS,Green,No,Las Vegas,Nevada
+21-Dec-23,0108,N478GS,GLF4,2000,TPA,Green,No,Tampa,Florida
+21-Dec-23,1047,N198LL,EC45,2400,HUF,Green,No,Terre Haute,Indiana
+21-Dec-23,0426,SKW932M,E75L,7000,NCT,White,No,Mather,California
+21-Dec-23,0228,XSR368,E55P,3000,MCI,Green,No,Kansas City,Missouri
+21-Dec-23,0405,YEL82,E55P,34500,ZTL,Green,No,Hampton,Georgia
+21-Dec-23,0046,ENY3888,E170,10000,MSN,Green,No,Madison,Wisconsin
+21-Dec-23,0011,UCA4348,E145,2000,IAH,Green,No,Houston,Texas
+21-Dec-23,0157,WF42,DA40,5400,S56,Green,No,Salt Lake City,Utah
+21-Dec-23,0222,JIA5333,CRJ9,3000,CLT,Green,No,Charlotte,North Carolina
+21-Dec-23,0411,JIA5450,CRJ9,23000,ZTL,Green,No,Hampton,Georgia
+21-Dec-23,2353,EDV5092,CRJ9,3000,ROC,Green,No,Rochester,New York
+21-Dec-23,0149,SKW4824,CRJ7,12000,D10,Green,No,Dallas-Fort Worth,Texas
+21-Dec-23,0223,SKW6360,CRJ7,5000,LFT,Green,No,Lafayette,Louisiana
+21-Dec-23,0400,SKW4841,CRJ7,3000,FSD,Green,No,Sioux Falls,South Dakota
+21-Dec-23,0017,CHILI85,C5M,2500,SAT,Green,No,San Antonio,Texas
+21-Dec-23,0325,EJA359,C550,4000,BNA,Red,No,Nashville,Tennessee
+21-Dec-23,0038,N428BL,C182,2300,DSM,Green,No,Des Moines,Iowa
+21-Dec-23,0036,N3873Q,C172,3000,TOL,Green,No,Toledo,Ohio
+21-Dec-23,0147,N62875,C172,5000,ZME,Green,No,Memphis,Tennessee
+21-Dec-23,0337,N537ND,C172,6800,D01,Green,No,Denver,Colorado
+21-Dec-23,2316,N61WT,C172,5500,Y90,Green,No,Fort Wayne,Indiana
+21-Dec-23,2320,N61676,C172,4500,FAY,Green,No,Fayetteville,North Carolina
+21-Dec-23,0032,N1077B,BE35,2500,MSN,Green,No,Madison,Wisconsin
+21-Dec-23,0023,N428MC,BE20,30000,ZTL,Green,No,Hampton,Georgia
+21-Dec-23,0250,ATN3598,B763,25000,ZAB,Green,No,Albuquerque,New Mexico
+21-Dec-23,0408,DAL2338,B752,23000,ZDC,Green,No,Leesburg,Virginia
+21-Dec-23,0648,DAL8928,B752,4000,OKC,Green,No,Oklahoma City,Oklahoma
+21-Dec-23,0201,UAL1897,B739,4000,C90,Green,No,Elgin,Illinois
+21-Dec-23,0111,SCX363,B738,1000,TPA,Blue,No,Tampa,Florida
+21-Dec-23,0204,SWA3502,B737,3500,PHX,Green,No,Phoenix,Arizona
+21-Dec-23,0328,AAL2339,B38M,7000,P50,Green,No,Phoenix,Arizona
+21-Dec-23,0102,FH067,B06,500,PNS,Green,No,Pensacola,Florida
+21-Dec-23,0238,VV7E130,B06,500,P31,Green,No,Pensacola,Florida
+21-Dec-23,0131,DAL1519,A321,7000,M98,Green,No,Minneapolis,Minnesota
+21-Dec-23,0217,AAL2902,A321,23000,ZLA,Green,No,Palmsdale,California
+21-Dec-23,0008,AAY1873,A320,11000,GSP,Green,No,Greer,South Carolina
+21-Dec-23,0215,VIV165,A320,6000,SAT,Green,No,San Antonio,Texas
+21-Dec-23,0708,VIV187,A320,15000,ZAU,Green,No,Aurora,Illinois
+21-Dec-23,0021,DAL1317,A319,2000,IAH,Green,No,Houston,Texas
+21-Dec-23,0509,AAL966,A319,23000,ZDC,Green,No,Leesburg,Virginia
+21-Dec-23,0440,FFT1724,A20N,25000,ZAB,Green,No,Albuquerque,New Mexico
+21-Dec-23,0058,EB627,A119,800,PNS,Green,No,Pensacola,Florida
+22-Dec-23,0130,N63HL,SR22,Unk,PCT,Unk,No,Warrenton,Virginia
+22-Dec-23,0318,N878CF,S22T,8000,ZID,Green,No,Indianapolis,Indiana
+22-Dec-23,0036,N2137N,PA28,6000,ZDV,Green,No,Longmont,Colorado
+22-Dec-23,2145,N515AC,PA28,3600,BAF,Green,No,Westfield/Springfield,Massachusetts
+22-Dec-23,0236,N787RP,P28A,3200,CHD,Green,No,Chandler,Arizona
+22-Dec-23,0023,N3251F,M20P,4000,ZME,Green,No,Memphis,Tennessee
+22-Dec-23,0223,HPD78F,HELO,800,IAH,Green,No,Houston,Texas
+22-Dec-23,0411,EJM44,GLEX,300,OPF,Red,No,Miami,Florida
+22-Dec-23,0021,ASH6318,E75L,7000,I90,Green,No,Houston,Texas
+22-Dec-23,0327,SKW3113,E75L,11000,S56,Green,No,Salt Lake City,Utah
+22-Dec-23,0509,SKW3712,E75L,6000,NCT,Blue,No,Mather,California
+22-Dec-23,0416,ENY3308,E170,13000,ZJX,Blue,No,Hillard,Florida
+22-Dec-23,0025,ERU309,DA42,8000,SAV,Green,No,Savannah,Georgia
+22-Dec-23,0325,JIA5457,CRJ9,6000,AVL,Green,No,Asheville,North Carolina
+22-Dec-23,2343,N889TA,C25M,9800,MOB,Green,No,Mobile,Alabama
+22-Dec-23,0424,N5013R,C172,2600,CHD,Green,No,Chandler,Arizona
+22-Dec-23,2220,N503SP,C172,5500,PVD,Green,No,Providence,Rhode Island
+22-Dec-23,2252,N7334P,C172,3000,N90,Green,No,Westbury,New York
+22-Dec-23,0046,UAL47,B777,3000,IAH,Green,No,Houston,Texas
+22-Dec-23,2359,AAL1174,B767,800,JFK,Green,No,New York,New York
+22-Dec-23,0506,FDX1638,B763,4000,IND,Green,No,Indianapolis,Indiana
+22-Dec-23,1035,CKS2964,B747,6400,HCF,Green,No,Honolulu,Hawaii
+22-Dec-23,0827,UAL1597,B73M,2000,SFO,Green,No,San Francisco,California
+22-Dec-23,0330,UAL8124,B739,6500,RSW,Green,No,Fort Myers,Florida
+22-Dec-23,0511,ASA391,B739,9500,S46,Green,No,Burien,Washington
+22-Dec-23,0358,SWA2418,B738,2500,PHX,Green,No,Phoenix,Arizona
+22-Dec-23,0648,ASA1184,B738,8000,SCT,Green,No,San Diego,California
+22-Dec-23,0656,DAL2920,B738,6000,L30,Green,No,Las Vegas,Nevada
+22-Dec-23,0702,DAL1672,B738,27000,ZAB,Green,No,Albuquerque,New Mexico
+22-Dec-23,0144,AAL2349,B737,3000,PCT,Green,No,Warrenton,Virginia
+22-Dec-23,0338,SWA1294,B737,2500,STL,Green,No,St. Louis,Missouri
+22-Dec-23,0347,SWA639,B737,27000,ZID,Green,No,Indianapolis,Indiana
+22-Dec-23,0250,SWA3443,B737,Unk,RSW,Unk,No,Fort Myers,Florida
+22-Dec-23,0507,DAL2043,B712,20000,ZTL,Green,No,Hampton,Georgia
+22-Dec-23,0645,SWA2324,B38M,7000,SCT,Green,No,San Diego,California
+22-Dec-23,0044,MTN7110,AT76,4000,ZSU,Green,No,San Juan,Puerto Rico
+22-Dec-23,0652,FBU37M,A359,10000,SCT,Green,No,San Diego,California
+22-Dec-23,0316,AVA244,A319,2000,JFK,Green,No,New York,New York
+22-Dec-23,0654,DAL2653,A319,7000,L30,Green,No,Las Vegas,Nevada
+22-Dec-23,0700,AAY1630,A319,7000,FAT,Green,No,Fresno,California
+22-Dec-23,0139,AAL1931,A21N,7600,PCT,Green,No,Warrenton,Virginia
+22-Dec-23,0912,AAL2205,A21N,1500,HCF,Purple,No,Honolulu,Hawaii
+22-Dec-23,0647,NKS876,A20N,8000,SCT,Green,No,San Diego,California
+22-Dec-23,0015,SKW5723,,1300,IAH,Green,No,Houston,Texas
+22-Dec-23,1213,PDT5816,,9000,PHL,Green,No,Philadelphia,Pennsylvania
+23-Dec-23,0513,N434LR,PC12,10000,PCT,Green,No,Warrenton,Virginia
+23-Dec-23,0020,N7229J,P28A,6000,CLE,Green,No,Cleveland,Ohio
+23-Dec-23,0135,N720GG,LJ45,3900,ZHU,Green,No,Houston,Texas
+23-Dec-23,0220,N342SG,LJ45,9000,D01,Blue,No,Denver,Colorado
+23-Dec-23,2350,N848N,H25B,1600,GPT,Green,No,Gulfport,Mississippi
+23-Dec-23,2343,N412JK,GA5C,20000,ZMA,Green,No,Melbourne,Florida
+23-Dec-23,0040,RPA4719,E75L,1300,IND,Blue,No,Indianapolis,Indiana
+23-Dec-23,0355,SKW3489,E75L,12000,ZSE,Green,No,Auburn,Washington
+23-Dec-23,0358,QXE2064,E75L,1000,PDX,Green,No,Portland,Oregon
+23-Dec-23,0401,SKW5263,E75L,7600,ZLC,Green,No,Salt Lake City,Utah
+23-Dec-23,0909,QXE2066,E75L,6000,ZSE,Green,No,Auburn,Washington
+23-Dec-23,0456,HOGAN32,E6,10000,NCT,Green,No,Mather,California
+23-Dec-23,2325,ENY3422,E170,10000,BHM,Green,No,Birmingham,Alabama
+23-Dec-23,0210,PDT5916,E145,6000,AGS,Green,No,Augusta,Georgia
+23-Dec-23,0631,PDT5701,E145,5000,ZOB,Green,No,Oberlin,Ohio
+23-Dec-23,2338,EDV5470,CRJ9,5000,BTR,Green,No,Baton Rouge,Louisiana
+23-Dec-23,0627,SKW3169,CRJ7,3800,TUS,Green,No,Tucson,Arizona
+23-Dec-23,0427,N6197D,C510,16000,NCT,Green,No,Mather,California
+23-Dec-23,0633,BVN7518,C208,8000,ZME,Green,No,Memphis,Tennessee
+23-Dec-23,0410,N6769H,C172,1100,RHV,Green,No,San Jose,California
+23-Dec-23,0424,N1926F,C172,5000,NCT,Green,No,Mather,California
+23-Dec-23,0343,AMF2217,BE99,2000,DFW,Green,No,Dallas-Fort Worth,Texas
+23-Dec-23,0416,UAL2341,B739,600,LAX,Green,No,Los Angeles,California
+23-Dec-23,0057,GTI3695,B738,9000,CVG,Green,No,Covington,Kentucky
+23-Dec-23,0629,AAL1133,B738,5500,PCT,Green,No,Warrenton,Virginia
+23-Dec-23,0459,DAL2379,B737,3000,M03,Green,No,Memphis,Tennessee
+23-Dec-23,0228,DAL2275,B712,5200,AVL,Green,No,Asheville,North Carolina
+23-Dec-23,2354,DAL2418,B712,15000,ZTL,Green,No,Hampton,Georgia
+23-Dec-23,0035,NEWS1,B06,1800,SAT,Green,No,San Antonio,Texas
+23-Dec-23,0129,AAL2403,A321,17000,ZTL,Green,No,Hampton,Georgia
+23-Dec-23,0327,UAL2375,A320,600,LGA,Green,No,New York,New York
+23-Dec-23,0414,NKS71,A320,9500,NCT,Blue,No,Mather,California
+23-Dec-23,0635,FFT4309,A320,10000,D01,Green,No,Denver,Colorado
+23-Dec-23,2250,NKS278,A320,35000,ZTL,Green,No,Hampton,Georgia
+23-Dec-23,0755,FFT1724,A20N,10000,P50,Green,No,Phoenix,Arizona
+24-Dec-23,0325,VAR474,SR20,2000,GYR,Green,No,Goodyear,Arizona
+24-Dec-23,0155,N844SB,HELO,1300,MKC,Green,No,Kansas City,Missouri
+24-Dec-23,0204,N374RV,F2TH,6000,P50,Green,No,Phoenix,Arizona
+24-Dec-23,0111,N782MM,E550,4500,LAS,Green,No,Las Vegas,Nevada
+24-Dec-23,0214,SKW4169,E175,Unk,NCT,Unk,No,Mather,California
+24-Dec-23,0132,UCA4269,E145,4000,CRP,Green,No,Corpus Christi,Texas
+24-Dec-23,0325,UCA4273,E145,5000,LIT,Green,No,Little Rock,Arkansas
+24-Dec-23,0040,VTE3002,E135,9000,ZME,Blue,No,Memphis,Tennessee
+24-Dec-23,0210,N37NA,DA40,1500,NCT,Green,No,Mather,California
+24-Dec-23,0400,EDV5112,CRJ9L,3000,ZME,Green,No,Memphis,Tennessee
+24-Dec-23,0316,JIA5601,CRJ7,11500,BHM,Green,No,Birmingham,Alabama
+24-Dec-23,0233,N14WG,C172,4100,NCT,Green,No,Mather,California
+24-Dec-23,0453,N605SW,C172,3500,NCT,Green,No,Mather,California
+24-Dec-23,0255,N6027F,BE35,5700,NCT,Green,No,Mather,California
+24-Dec-23,0339,DAL1591,B757,2500,TPA,Blue,No,Tampa,Florida
+24-Dec-23,0255,DAL606,B752,24500,ZTL,Green,No,Hampton,Georgia
+24-Dec-23,0217,ASA607,B737,10000,P80,Green,No,Portland,Oregon
+24-Dec-23,0230,SWA1799,B38W,9000,P50,Green,No,Phoenix,Arizona
+24-Dec-23,0143,SWA2424,B38M,9000,CLT,Green,No,Charlotte,North Carolina
+24-Dec-23,0123,AAL2864,A321,5000,LAS,Green,No,Las Vegas,Nevada
+24-Dec-23,0325,AAL768,A321,30000,ZME,Green,No,Memphis,Tennessee
+24-Dec-23,0341,NKS877,A320,9000,MIA,Green,No,Miami,Florida
+24-Dec-23,0845,FFT4989,A20N,1200,SAN,Green,No,San Diego,California
+25-Dec-23,2330,CYO600,LJ60,4600,GSO,Green,No,Greensboro,North Carolina
+25-Dec-23,0035,HALO5,HELO,500,CRP,Green,No,Corpus Christi,Texas
+25-Dec-23,0228,SKW3344,E75L,21000,NCT,Green,No,Mather,California
+25-Dec-23,0340,SKW3789,E75L,2500,SJC,Green,No,San Jose,California
+25-Dec-23,0515,SKW3839,E75L,26000,ZLC,Green,No,Salt Lake City,Utah
+25-Dec-23,0545,SKW3774,E75L,12000,FAT,Green,No,Fresno,California
+25-Dec-23,1237,ENY3835,E170,3000,C90,Green,No,Elgin,Illinois
+25-Dec-23,1233,AWI5983,CRJ2,3000,C90,Green,No,Elgin,Illinois
+25-Dec-23,0536,EJA620,C68A,3900,P50,Green,No,Phoenix,Arizona
+25-Dec-23,0040,FDY158,C208,5000,MDT,Green,No,Harrisburg,Pennsylvania
+25-Dec-23,0457,FDY463,C208,2500,STL,Green,No,St. Louis,Missouri
+25-Dec-23,0135,SWA792,B737,3000,SCT,Green,No,San Diego,California
+25-Dec-23,0114,SWA2606,B737,2000,IND,Green,No,Indianapolis,Indiana
+25-Dec-23,0540,SWA3138,B737,8000,NCT,Green,No,Mather,California
+25-Dec-23,0627,SWWA3781,B737,3000,I90,Green,No,Houston,Texas
+25-Dec-23,2346,SWA401,B737,19000,ZDC,Green,No,Leesburg,Virginia
+25-Dec-23,0605,LN908GF,B407,500,CRP,Green,No,Corpus Christi,Texas
+25-Dec-23,0010,N342AE,B406,2000,SAT,Green,No,San Antonio,Texas
+25-Dec-23,0153,SIL81,AT46,1000,TPA,Green,No,Tampa,Florida
+25-Dec-23,0058,NKS621,A32N,1500,MCO,Green,No,Orlando,Florida
+25-Dec-23,0851,FFT4251,A320,6000,SLC,Green,No,Salt Lake City,Utah
+25-Dec-23,2319,AAL2634,A319,1500,MIA,Green,No,Miami,Florida
+25-Dec-23,0150,,,11000,D01,Green,No,Denver,Colorado
+26-Dec-23,2351,N503AF,P28A,1000,PMP,Green,No,Pompano Beach,Florida
+26-Dec-23,2313,RPA5657,E75L,2300,ORF,Green,No,Norfolk,Virginia
+26-Dec-23,2353,ASH6104,E75L,3000,CLE,Green,No,Cleveland,Ohio
+26-Dec-23,0140,MXY329,E195,5000,MSY,Green,No,New Orleans,Louisiana
+26-Dec-23,0351,ENY4173,E170,15000,ZFW,Green,No,Fort Worth,Texas
+26-Dec-23,0015,UCA4322,E145,6000,I90,Green,No,Houston,Texas
+26-Dec-23,0116,UCA4287,E145,13000,ZHU,Green,No,Houston,Texas
+26-Dec-23,0345,PDT5787,E145,3500,EVV,Green,No,Evansville,Indiana
+26-Dec-23,0230,UCA4268,E145,11000,SHV,Red,No,Shreveport,Louisiana
+26-Dec-23,0230,GJS4467,CRJ7,3000,FNT,Blue,No,Flint,Michigan
+26-Dec-23,0035,SKW4642,CRJ2,10000,D01,Green,No,Denver,Colorado
+26-Dec-23,0830,GTI8055,B744,12800,NCT,Green,No,Mather,California
+26-Dec-23,0042,DAL2367,B739,4000,MSY,Green,No,New Orleans,Louisiana
+26-Dec-23,2350,UAL421,B737,3000,I90,Green,No,Houston,Texas
+26-Dec-23,0113,ASA632,B737,25000,ZAB,Green,No,Albuquerque,New Mexico
+26-Dec-23,0151,UAL584,B737,3500,SAN,Green,No,San Diego,California
+26-Dec-23,0340,SWA1894,B737,1000,ELM,Green,No,Elmira/Corning,New York
+26-Dec-23,0425,SWA2262,B737,4000,LAS,Green,No,Las Vegas,Nevada
+26-Dec-23,0429,SWA648,B737,16000,ZDV,Green,No,Longmont,Colorado
+26-Dec-23,0505,SWA2239,B737,13000,SAT,Green,No,San Antonio,Texas
+26-Dec-23,0540,SWA2757,B737,3000,SCT,Green,No,San Diego,California
+26-Dec-23,0552,SWA1015,B737,2400,NCT,Green,No,Mather,California
+26-Dec-23,0740,ASA1328,B737,Unk,NCT,Unk,No,Mather,California
+26-Dec-23,0050,UAL1716,B39M,3700,I90,Green,No,Houston,Texas
+26-Dec-23,0304,JBU1938,A320,2300,SJU,Green,No,San Juan,Puerto Rico
+26-Dec-23,0439,AAL1110,A319,2300,BFL,Green,No,Bakersfield,California
+26-Dec-23,0724,FFT2168,A20N,10000,L30,Green,No,Las Vegas,Nevada
+27-Dec-23,2355,WSP35,SF50,4000,A80,Green,No,Peachtree City,Georgia
+27-Dec-23,0217,SXM52,PC12,24000,ZAB,Green,No,Albuquerque,New Mexico
+27-Dec-23,0345,N282MK,P28A,500,VNY,Green,No,Van Nuys,California
+27-Dec-23,0440,N652AE,HELO,2000,FTW,Green,No,Fort Wayne,Indiana
+27-Dec-23,0236,N237BB,F2TH,15500,ZFW,Unk,No,Fort Worth,Texas
+27-Dec-23,0655,QXE2170,E75L,12000,EUG,Blue,No,Eugene,Oregon
+27-Dec-23,0530,SKW3128,E75L,3900,TUS,Green,No,Tucson,Arizona
+27-Dec-23,0127,N521N,E55P,11000,ZME,Green,No,Memphis,Tennessee
+27-Dec-23,0104,JBU2745,E190,2000,RSW,Green,No,Fort Myers,Florida
+27-Dec-23,0000,ENY3718,E170,25000,S56,Green,No,Salt Lake City,Utah
+27-Dec-23,0043,UCA4282,E145,6000,I90,Green,No,Houston,Texas
+27-Dec-23,0214,JSX511,E145,3000,D10,Green,No,Dallas-Fort Worth,Texas
+27-Dec-23,2349,PDT5926,E145,14000,CLT,Green,No,Charlotte,North Carolina
+27-Dec-23,0308,EDV5508,CRJ9,14000,ZTL,Green,No,Hampton,Georgia
+27-Dec-23,0238,EDV5215,CRJ7,13000,ZME,Green,No,Memphis,Tennessee
+27-Dec-23,0250,SKW3182,CRJ7,11000,ZAU,Green,No,Aurora,Illinois
+27-Dec-23,0101,AWI6056,CRJ2,6000,C90,Green,No,Elgin,Illinois
+27-Dec-23,0125,AWI6168,CRJ2,8500,C90,Green,No,Elgin,Illinois
+27-Dec-23,0310,N778XJ,C750,7000,IND,Green,No,Indianapolis,Indiana
+27-Dec-23,0045,EJA931,C68A,5000,Y90,Green,No,Fort Wayne,Indiana
+27-Dec-23,0235,BXR1523,C208,3000,NCT,Green,No,Mather,California
+27-Dec-23,0241,JTZ147,C208,9000,ZME,Green,No,Memphis,Tennessee
+27-Dec-23,2357,N3613U,C182,1200,LAL,Green,No,Lakeland,Florida
+27-Dec-23,0259,N5130E,C172,2000,SJC,Green,No,San Jose,California
+27-Dec-23,0633,N9285H,C172,5000,SCT,Green,No,San Diego,California
+27-Dec-23,1645,N556ND,C172,1300,TIW,Green,No,Tacoma,Washington
+27-Dec-23,0212,N18015,C150,2000,S56,Green,No,Salt Lake City,Utah
+27-Dec-23,0209,DAL2263,BCS1,5000,BOI,Green,No,Boise,Idaho
+27-Dec-23,0318,FDX1372,B757,30000,ZME,Green,No,Memphis,Tennessee
+27-Dec-23,2205,UAL1499,B752,2000,BOS,Green,No,Boston,Massachusetts
+27-Dec-23,0240,ASA655,B739,9500,ABQ,Green,No,Albuquerque,New Mexico
+27-Dec-23,0443,ASA732,B739,25000,ZAB,Green,No,Albuquerque,New Mexico
+27-Dec-23,0747,ASA26,B739,2000,S46,Green,No,Burien,Washington
+27-Dec-23,0310,UAL1564,B738,11000,C90,Green,No,Elgin,Illinois
+27-Dec-23,0247,WJA1515,B738,1000,LAX,Green,No,Los Angeles,California
+27-Dec-23,0326,UAL625,B738,5000,I90,Green,No,Houston,Texas
+27-Dec-23,0020,UAL524,B737,6000,I90,Green,No,Houston,Texas
+27-Dec-23,0242,AAL1996,B737,35000,ZAB,Green,No,Albuquerque,New Mexico
+27-Dec-23,0252,SKW2400,B737,10000,SBN,Green,No,South Bend,Indiana
+27-Dec-23,0558,SWA2624,B737,4500,NCT,Green,No,Mather,California
+27-Dec-23,0850,SWA2888,B737,20000,ZHU,Green,No,Houston,Texas
+27-Dec-23,0910,SWA9030,B737,5500,RNO,Green,No,Reno,Nevada
+27-Dec-23,0250,SWA3443,B737,4000,RSW,Green,No,Fort Myers,Florida
+27-Dec-23,0423,NKS1099,A319,2000,RSW,Green,No,Fort Myers,Florida
+27-Dec-23,0620,DAL867,A21N,30000,ZAB,Green,No,Albuquerque,New Mexico
+27-Dec-23,0300,NKS1807,A20N,16800,ZOA,Green,No,Fremont,California
+27-Dec-23,0401,FFT1449,A20N,22100,ZTL,Green,No,Hampton,Georgia
+28-Dec-23,0017,N930DG,SR22,2900,IND,Green,No,Indianapolis,Indiana
+28-Dec-23,0230,VAR407,SR20,5000,L30,Green,No,Las Vegas,Nevada
+28-Dec-23,0209,N698FL,PA28,5500,FFZ,Green,No,Mesa,Arizona
+28-Dec-23,0019,FDX105,MD11,6000,M03,Green,No,Memphis,Tennessee
+28-Dec-23,0523,FDX1612,MD11,13000,IND,Green,No,Indianapolis,Indiana
+28-Dec-23,0120,CYO404,LJ60,6300,SLC,Green,No,Salt Lake City,Utah
+28-Dec-23,2347,CNTY3,HELO,500,BWI,Green,No,Baltimore,Maryland
+28-Dec-23,0214,EJM19,GLF5,2400,STP,Green,No,St Paul,Minnesota
+28-Dec-23,0225,POL2,EC35,2000,SAT,Green,No,San Antonio,Texas
+28-Dec-23,0250,SKW3933,E75L,6200,SLC,Green,No,Salt Lake City,Utah
+28-Dec-23,0252,SKW3791,E75L,4000,OKC,Green,No,Oklahoma City,Oklahoma
+28-Dec-23,0320,SKW3466,E75L,3000,SCT,Green,No,San Diego,California
+28-Dec-23,0320,LXJ388,E55P,3000,SCT,Green,No,San Diego,California
+28-Dec-23,0305,PDT5740,E145,6400,CLT,Green,No,Charlotte,North Carolina
+28-Dec-23,0100,EDV5281,CRJ9,11000,A80,Green,No,Peachtree City,Georgia
+28-Dec-23,0200,GJS4392,CRJ7,2000,ALB,Green,No,Albuquerque,New York
+28-Dec-23,0330,SKY3252,CRJ7,7000,U90,Green,No,Tucson,Arizona
+28-Dec-23,0222,N561CC,C560,3000,NCT,Green,No,Mather,California
+28-Dec-23,0224,N733ZY,C172,1000,FUL,Green,No,Fullerton,California
+28-Dec-23,0237,N53716,C172,900,SCT,Green,No,San Diego,California
+28-Dec-23,0300,BMJ1806,BE65,11000,COS,Green,No,Colorado Springs,Colorado
+28-Dec-23,0019,N927AW,BE36,4500,ZME,Green,No,Memphis,Tennessee
+28-Dec-23,0301,DAL2812,BCS3,6200,SJC,Green,No,San Jose,California
+28-Dec-23,0417,FDX1249,B763,5000,M03,Green,No,Memphis,Tennessee
+28-Dec-23,0415,UPS1307,B763,23000,ZTL,Green,No,Hampton,Georgia
+28-Dec-23,0410,FDX373,B752,5000,M03,Green,No,Memphis,Tennessee
+28-Dec-23,0426,FDX1818,B752,6000,NCT,Green,No,Mather,California
+28-Dec-23,0455,FDX1481,B752,17000,ZJX,Green,No,Hillard,Florida
+28-Dec-23,0510,UAL1475,B739,27000,ZFW,Green,No,Fort Worth,Texas
+28-Dec-23,0357,SWA1320,B738,12500,NCT,Green,No,Mather,California
+28-Dec-23,0116,AAL2901,B737,8000,D10,Green,No,Dallas-Fort Worth,Texas
+28-Dec-23,0220,SWA2406,B737,21000,ZAB,Green,No,Albuquerque,New Mexico
+28-Dec-23,0445,ASA1111,B737,18000,ZSE,Green,No,Auburn,Washington
+28-Dec-23,0211,DAL1275,B712,27000,ZTL,Green,No,Hampton,Georgia
+28-Dec-23,0242,DAL2639,B712,12000,A80,Green,No,Peachtree City,Georgia
+28-Dec-23,0440,PD2,AS50,600,ABQ,Green,No,Albuquerque,New Mexico
+28-Dec-23,0300,DAL1017,A321,10000,P50,Green,No,Phoenix,Arizona
+28-Dec-23,0206,AAY4751,A320,4000,CVG,Green,No,Covington,Kentucky
+28-Dec-23,2319,AAL1722,A319,10500,CLT,Green,No,Charlotte,North Carolina
+28-Dec-23,1205,AAL673,A21N,2500,PHX,Green,No,Phoenix,Arizona
+29-Dec-23,0320,TRF544,P28A,2500,D10,Green,No,Dallas-Fort Worth,Texas
+29-Dec-23,0114,N384X,MAUL,1000,SBP,Green,No,San Luis Obispo,California
+29-Dec-23,2139,N600CK,GLF4,700,SJU,Green,No,San Juan,Puerto Rico
+29-Dec-23,0412,N1SF,GA6C,7000,I90,Green,No,Houston,Texas
+29-Dec-23,0041,N54MH,F2TH,300,OPF,Red,No,Miami,Florida
+29-Dec-23,0359,POL2,EC35,1500,SAT,Green,No,San Antonio,Texas
+29-Dec-23,0339,SKW3307,E75L,2000,SEA,Green,No,Seattle,Washington
+29-Dec-23,0353,SKW5370,E75L,4500,NCT,Green,No,Mather,California
+29-Dec-23,0432,SKW4858,E75L,29000,ZAB,Green,No,Albuquerque,New Mexico
+29-Dec-23,0305,ENY3391,E170,10000,BTR,Green,No,Baton Rouge,Louisiana
+29-Dec-23,2357,AWI6078,CRJ2,8000,MSN,Blue,No,Madison,Wisconsin
+29-Dec-23,0330,SIS522,CL35,11000,U90,Green,No,Tucson,Arizona
+29-Dec-23,2322,EJA765,CL35,21000,ZMA,Green,No,Melbourne,Florida
+29-Dec-23,0039,N800RS,C56X,4000,MIA,Green,No,Miami,Florida
+29-Dec-23,0128,JRE751,C25B,3000,SAT,Green,No,San Antonio,Texas
+29-Dec-23,0220,BVN7283,C208,3000,SAT,Green,No,San Antonio,Texas
+29-Dec-23,0223,N735CW,C182,1800,POC,Green,No,La Verne,California
+29-Dec-23,0133,N516NG,C172,3000,SCT,Green,No,San Diego,California
+29-Dec-23,0211,N733ZY,C172,500,FUL,Green,No,Fullerton,California
+29-Dec-23,0340,N326ME,C172,1000,BFI,Green,No,Seattle,Washington
+29-Dec-23,0231,AAL2941,B73M,38000,ZAB,Green,No,Albuquerque,New Mexico
+29-Dec-23,0300,ASA339,B739,8000,S46,Green,No,Burien,Washington
+29-Dec-23,0458,ASA491,B739,12000,SEA,Green,No,Seattle,Washington
+29-Dec-23,0540,AAL639,B738,3800,TUS,Green,No,Tucson,Arizona
+29-Dec-23,1657,ASA188,B737,16000,ZAN,Green,No,Anchorage,Alaska
+29-Dec-23,0403,UAL1752,B39M,12000,ABQ,Green,No,Albuquerque,New Mexico
+29-Dec-23,0230,PHL,ATL,18000,ZTL,Green,No,Hampton,Georgia
+29-Dec-23,0309,PD2,AS50,6500,ABQ,Green,No,Albuquerque,New Mexico
+29-Dec-23,0130,JBU1700,A321,1000,FLL,Green,No,Fort Lauderdale,Florida
+29-Dec-23,0215,DAL1719,A321,11000,P50,Green,No,Phoenix,Arizona
+29-Dec-23,0220,DAL622,A321,12000,ZHU,Green,No,Houston,Texas
+29-Dec-23,0450,NKS473,A320,34000,ZAB,Green,No,Albuquerque,New Mexico
+29-Dec-23,0546,JBU1289,A320,1500,SJU,Green,No,San Juan,Puerto Rico
+29-Dec-23,0351,DAL2372,A319,23000,ZTL,Green,No,Hampton,Georgia
+30-Dec-23,0123,N288TS,SR20,4500,SAT,Blue,No,San Antonio,Texas
+30-Dec-23,0709,SNC380,SH36,3000,ZSU,Green,No,San Juan,Puerto Rico
+30-Dec-23,0307,N456AJ,R66,6700,COS,Green,No,Colorado Springs,Colorado
+30-Dec-23,0230,VIEW01,R44,2800,GTB,Green,No,Fort Drum,New York
+30-Dec-23,0043,N342FG,P28A,10500,COS,Green,No,Colorado Springs,Colorado
+30-Dec-23,0518,N331JA,LJ31,3700,ZME,Blue,No,Memphis,Tennessee
+30-Dec-23,0116,N38BL,HELO,800,JFK,Green,No,New York,New York
+30-Dec-23,0414,HPD79F,HELO,800,HOU,Green,No,Houston,Texas
+30-Dec-23,0800,STAR7,HELO,7500,S56,Green,No,Salt Lake City,Utah
+30-Dec-23,1056,PHI53,HELO,6000,ABQ,Green,No,Albuquerque,New Mexico
+30-Dec-23,0420,POL2,EC35,2000,SKF,Green,No,San Antonio,Texas
+30-Dec-23,0225,SKW4859,E75L,600,P50,Blue,No,Phoenix,Arizona
+30-Dec-23,0245,QXE2096,E75L,9000,S46,Blue,No,Burien,Washington
+30-Dec-23,0518,SKW3393,E75L,14000,ZSE,Green,No,Auburn,Washington
+30-Dec-23,0310,SKW3246,E75L,6000,P50,Blue,No,Phoenix,Arizona
+30-Dec-23,0435,ENY3865,E170,11000,ZHU,Green,No,Houston,Texas
+30-Dec-23,2353,ENY3605,E170,1700,ZJX,Green,No,Hillard,Florida
+30-Dec-23,0011,JIA5643,CRJ9,8000,CLT,Green,No,Charlotte,North Carolina
+30-Dec-23,0231,GJS4468,CRJ7,13000,ZDC,Green,No,Leesburg,Virginia
+30-Dec-23,0205,PFT103,C56X,5000,L30,Green,No,Las Vegas,Nevada
+30-Dec-23,0129,BXR1523,C208,3500,NCT,Green,No,Mather,California
+30-Dec-23,2350,FDY459,C208,8000,ZME,Green,No,Memphis,Tennessee
+30-Dec-23,0510,SMKY4,C206,2500,TCM,Green,No,Tacoma,Washington
+30-Dec-23,0154,N1182A,C182,8500,BFL,Multiple Green,No,Bakersfield,California
+30-Dec-23,0520,N1182A,C182,4500,ZOA,Green,No,Fremont,California
+30-Dec-23,0006,N734WS,C172,2100,RDG,Green,No,Reading,Pennsylvania
+30-Dec-23,0125,N579WG,C172,7200,BJC,Green,No,Denver,Colorado
+30-Dec-23,0240,N1094F,C172,8300,COS,Green,No,Colorado Springs,Colorado
+30-Dec-23,0155,GTI3852,B763,4000,TPA,Green,No,Tampa,Florida
+30-Dec-23,0138,DAL1057,B757,35000,ZTL,Green,No,Hampton,Georgia
+30-Dec-23,0142,DAL1057,B752,39000,ZJX,Green,No,Hillard,Florida
+30-Dec-23,0325,CKS9708,B744,39000,ZAU,Green,No,Aurora,Illinois
+30-Dec-23,0327,DAL1927,B739,500,BOS,Green,No,Boston,Massachusetts
+30-Dec-23,0107,SWA3054,B737,4000,I90,Green,No,Houston,Texas
+30-Dec-23,0116,DAL1303,B717,31000,ZAU,Green,No,Aurora,Illinois
+30-Dec-23,0218,SWA2150,B38M,5000,D10,Green,No,Dallas-Fort Worth,Texas
+30-Dec-23,0342,SWA1089,B38M,3900,MSY,Blue,No,New Orleans,Louisiana
+30-Dec-23,0221,AAL1643,A321,7000,CLT,Green,No,Charlotte,North Carolina
+30-Dec-23,0509,FFT2359,A321,15000,ZHU,Blue,No,Houston,Texas
+30-Dec-23,0410,AAL1521,A319,9000,P50,Green,No,Phoenix,Arizona
+30-Dec-23,1200,UAL1261,A319,7000,C90,Green,No,Elgin,Illinois
+31-Dec-23,0555,DPS2,HELO,1500,DAL,Green,No,Dallas ,Texas
+31-Dec-23,0108,SKW4024,E75S,4000,TUS,Green,No,Tucson,Arizona
+31-Dec-23,0149,SKW3900,E75L,1200,SJC,Green,No,San Jose,California
+31-Dec-23,0129,SKW3414,E75L,15000,ZOA,Green,No,Fremont,California
+31-Dec-23,0243,SKW5610,E75L,10000,PCT,Green,No,Warrenton,Virginia
+31-Dec-23,1357,SKW3813,E75L,12000,S56,Green,No,Salt Lake City,Utah
+31-Dec-23,0140,SKW3426,E175,900,SNA,Green,No,Santa Ana,California
+31-Dec-23,0232,ENY3705,E170,3700,ABI,Green,No,Abilene,Texas
+31-Dec-23,0424,JIA5588,CRJ9,6500,ZTL,Green,No,Hampton,Georgia
+31-Dec-23,0422,EJA515,C68A,8000,SCT,Green,No,San Diego,California
+31-Dec-23,0047,N126RF,C208,4000,FMY,Green,No,Fort Myers,Florida
+31-Dec-23,0012,N734UZ,C172,1200,SBP,Green,No,San Luis Obispo,California
+31-Dec-23,0130,N465ER,C172,1000,S46,Unk,No,Burien,Washington
+31-Dec-23,0118,N828FG,C172,700,PHL,Green,No,Philadelphia,Pennsylvania
+31-Dec-23,0202,SCA35,C172,3700,TUS,Green,No,Tucson,Arizona
+31-Dec-23,0955,N207P,BE9L,10000,ZFW,Green,No,Fort Worth,Texas
+31-Dec-23,0139,DAL888,B739,32000,ZME,Green,No,Memphis,Tennessee
+31-Dec-23,0104,WJA1172,B738,2000,RSW,Green,No,Fort Myers,Florida
+31-Dec-23,0154,AAL1339,B738,36000,ZKC,Green,No,Olathe,Kansas
+31-Dec-23,0205,SWA2234,B738,23000,ZKC,Green,No,Olathe,Kansas
+31-Dec-23,0234,SWA823,B738,28000,ZHU,Green,No,Houston,Texas
+31-Dec-23,0323,DAL2959,B738,28800,ZTL,Green,No,Hampton,Georgia
+31-Dec-23,0545,SWA3432,B738,14000,S56,Green,No,Salt Lake City,Utah
+31-Dec-23,0002,SWA2380,B737,12000,MSY,Green,No,New Orleans,Louisiana
+31-Dec-23,0110,SWA1140,B737,18000,ZKC,Green,No,Olathe,Kansas
+31-Dec-23,0140,WJA1922,B737,29000,ZAB,Green,No,Albuquerque,New Mexico
+31-Dec-23,0402,SWA2382,B737,2200,BUR,Green,No,Burbank,California
+31-Dec-23,0647,SWA3699,B737,11000,ZSE,Blue,No,Auburn,Washington
+31-Dec-23,1206,SWA1951,B737,10000,BNA,Green,No,Nashville,Tennessee
+31-Dec-23,2337,SWA2026,B737,13000,ZTL,Green,No,Hampton,Georgia
+31-Dec-23,0004,AAL1776,A321,9000,PHL,Green,No,Philadelphia,Pennsylvania
+31-Dec-23,0354,DAL805,A321,19700,ZTL,Green,No,Hampton,Georgia
+31-Dec-23,0651,DAL1505,A321,22000,ZAB,Green,No,Albuquerque,New Mexico
+31-Dec-23,0000,DAL1478,A320,14000,ZTL,Green,No,Hampton,Georgia
+31-Dec-23,0103,FFT4990,A320,13000,D01,Green,No,Denver,Colorado
+31-Dec-23,0145,FFT2828,A320,3000,RSW,Green,No,Fort Myers,Florida
+31-Dec-23,0330,DAL2073,A319,17000,ZDC,Green,No,Leesburg,Virginia
+31-Dec-23,0452,FFT3483,A20N,4500,P50,Green,No,Phoenix,Arizona
